@@ -8,6 +8,18 @@ layout: home
 title:  "Hi there!"
 date:   2021-09-13 23:46:58 +0200
 categories: jekyll update
+author_profile: true
+permalink: /
+
+excerpt: "This post should display a **header with an overlay image**, if the theme supports it."
+header:
+  overlay_image: /assets/images/unsplash-image-1.jpg
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  actions:
+    - label: "More Info"
+      url: "https://unsplash.com"
+
+
 ---
 
 

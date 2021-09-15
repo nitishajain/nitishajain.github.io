@@ -1,0 +1,14 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "Publications"
+    url: /publications/ 
+  - title: "News"
+    url: /news/
+  - title: "Projects"
+    url: /projects/
+
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/

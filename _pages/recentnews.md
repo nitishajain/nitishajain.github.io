@@ -1,7 +1,7 @@
 ---
-title: "Recent"
+title: "All Updates"
 layout: home
-excerpt: "Recent News."
+excerpt: "News."
 sitemap: false
 permalink: /news/
 author_profile: true

@@ -7,6 +7,7 @@ permalink: /publications/
 author_profile: true
 ---
 
+## Conferences
 
 * Nitisha Jain, Jan-Christoph Kalo, Wolf-Tilo Balke, Ralf Krestel: Do Embeddings Actually Capture Knowledge Graph Semantics?. Proceedings of the International Conference on Principles of Knowledge Representation and Reasoning (KR), 2021 (to appear). [Extended Abstract]() [Poster]()
 

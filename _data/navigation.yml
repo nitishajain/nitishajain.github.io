@@ -5,8 +5,8 @@ main:
     url: /#publications
   - title: "News"
     url: /#recent
-  - title: "Projects"
-    url: /#projects
+  - title: "CV"
+    url: /assets/Nitisha_Jain_CV.pdf
 
   # - title: "Sample Collections"
   #   url: /collection-archive/

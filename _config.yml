@@ -47,7 +47,8 @@ defaults:
 author:
   name: "Nitisha Jain"
   avatar: "/assets/images/ResumePic.png"
-  bio: "PhD Student" # Note: Markdown is allowed
+  # bio: "PhD Student" # Note: Markdown is allowed
+  bio : ""
   location: "Potsdam, Germany"
   links:    
     - label: "LinkedIn"

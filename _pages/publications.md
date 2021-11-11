@@ -10,9 +10,9 @@ author_profile: true
 
 ## Conferences
 
-* Nitisha Jain, Jan-Christoph Kalo, Wolf-Tilo Balke, Ralf Krestel: Do Embeddings Actually Capture Knowledge Graph Semantics?. Proceedings of the International Conference on Principles of Knowledge Representation and Reasoning (KR), 2021 (to appear). [[Extended Abstract](/assets/papers/KR2021_Recently_Published_Track_Extended_Abstract.pdf)] [[Poster]()]
+* Nitisha Jain, Jan-Christoph Kalo, Wolf-Tilo Balke, Ralf Krestel: Do Embeddings Actually Capture Knowledge Graph Semantics?. Proceedings of the International Conference on Principles of Knowledge Representation and Reasoning (KR), 2021 (to appear). [[Extended Abstract](/assets/papers/KR2021_Recently_Published_Track_Extended_Abstract.pdf)] [[Poster](/assets/papers/Nitisha_Jain_KR2021_poster.pdf)]
 
-* Nitisha Jain, Trung-Kien Tran, Mohamed H. Gad-Elrab, Daria Stepanova: Improving Knowledge Graph Embeddings with Ontological Reasoning. Proceedings of the International Semantic Web Conference (ISWC), 2021 (to appear). [[Paper](/assets/papers/Improving Knowledge Graph Embeddings with Ontological Reasoning.pdf)] [[Talk]()]
+* Nitisha Jain, Trung-Kien Tran, Mohamed H. Gad-Elrab, Daria Stepanova: Improving Knowledge Graph Embeddings with Ontological Reasoning. Proceedings of the International Semantic Web Conference (ISWC), 2021 (to appear). [[Paper](/assets/papers/Improving Knowledge Graph Embeddings with Ontological Reasoning.pdf)] [[Talk](/assets/papers/Jain-259.mp4)]
 
 * Nitisha Jain, Jan-Christoph Kalo, Wolf-Tilo Balke, Ralf Krestel: Do Embeddings Actually Capture Knowledge Graph Semantics?. Proceedings of the Extended Semantic Web Conference (ESWC), 2021. [[Paper](/assets/papers/Do Embeddings Actually Capture Knowledge Graph Semantics.pdf)]
 

@@ -13,7 +13,7 @@ author_profile: true
 
 * Extended abstract titled 'Do Embeddings Actually Capture Knowledge Graph Semantics?' has been accepted for presentation at [KR 2021](https://kr2021.kbsg.rwth-aachen.de/) at the Recent Published Research Track. ([Abstract](/assets/papers/USKB_abstract_NitishaJain.pdf))
 
-* Research paper titled 'Improving Knowledge Graph Embeddings with Ontological Reasoning' has been accepted for presentation at the International Semantic Web Conference 2021 ([ISWC 2021](https://iswc2021.semanticweb.org/)) ([Paper](/assets/papers/Improving Knowledge Graph Embeddings with Ontological Reasoning.pdf)).
+* Research paper titled 'Improving Knowledge Graph Embeddings with Ontological Reasoning' has been accepted for presentation at the International Semantic Web Conference 2021. ([ISWC 2021](https://iswc2021.semanticweb.org/)) ([Paper](/assets/papers/Improving Knowledge Graph Embeddings with Ontological Reasoning.pdf))
 
 * (16-20/08/2021) Attended the [VLDB 2021](https://vldb.org/2021/) conference in Copenhagen, Denmark. 
 

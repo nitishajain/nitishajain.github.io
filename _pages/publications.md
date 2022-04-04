@@ -8,7 +8,11 @@ author_profile: true
 ---
 
 
+* Maria Lomaeva, **Nitisha Jain**: Relation Canonicalization in Open Knowledge Graphs - A Quantitative Analysis. Proceedings of the Extended Semantic Web Conference (ESWC), 2022. [[Poster]]()
+{: .text-justify}
 
+* **Nitisha Jain**, Alejandro Sierra-Múnera, Maria Lomaeva, Julius Streit, Simon Thormeyer, Philipp Schmidt and Ralf Krestel: Generating Domain-Specific Knowledge Graphs - Challenges with Open Information Extraction. Proceedings of International Workshop on Knowledge Graph Generation from Text (Text2KG), co-located with the Extended Semantic Web Conference (ESWC 2022). [[Paper]]() 
+{: .text-justify}
 
 * **Nitisha Jain**, Ralf Krestel: Discovering Fine-Grained Semantics in Knowledge Graph Relations. [[Arxiv](https://arxiv.org/abs/2202.08917)] 
 

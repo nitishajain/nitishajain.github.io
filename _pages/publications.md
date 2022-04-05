@@ -11,9 +11,6 @@ author_profile: true
 * Maria Lomaeva, **Nitisha Jain**: Relation Canonicalization in Open Knowledge Graphs - A Quantitative Analysis. Proceedings of the Extended Semantic Web Conference (ESWC), 2022. [[Poster]]()
 {: .text-justify}
 
-* **Nitisha Jain**, Alejandro Sierra-Múnera, Maria Lomaeva, Julius Streit, Simon Thormeyer, Philipp Schmidt and Ralf Krestel: Generating Domain-Specific Knowledge Graphs - Challenges with Open Information Extraction. Proceedings of International Workshop on Knowledge Graph Generation from Text (Text2KG), co-located with the Extended Semantic Web Conference (ESWC 2022). [[Paper]]() 
-{: .text-justify}
-
 * **Nitisha Jain**, Ralf Krestel: Discovering Fine-Grained Semantics in Knowledge Graph Relations. [[Arxiv](https://arxiv.org/abs/2202.08917)] 
 
 * **Nitisha Jain**, Alejandro Sierra, Jan Ehmueller, Ralf Krestel : Generation of Training Data for Named Entity Recognition of Artworks. Semantic Web Journal (SWJ) Special Issue Cultural Heritage 2021. [[Under review](http://www.semantic-web-journal.net/content/generation-training-data-named-entity-recognition-artworks-0)]
@@ -33,6 +30,10 @@ author_profile: true
 * **Nitisha Jain**, Ralf Krestel: Who is Mona L.? Identifying Mentions of Artworks in Historical Archives. International Conference on Theory and Practice of Digital Libraries (TPDL), 2019. [[Paper](/assets/papers/Who_is_Mona_L_Identifying_Mentions_of_Artworks_in_Historical_Archives.pdf)]
 
 ## Workshops
+
+
+* **Nitisha Jain**, Alejandro Sierra-Múnera, Maria Lomaeva, Julius Streit, Simon Thormeyer, Philipp Schmidt and Ralf Krestel: Generating Domain-Specific Knowledge Graphs - Challenges with Open Information Extraction. Proceedings of International Workshop on Knowledge Graph Generation from Text (Text2KG), co-located with the Extended Semantic Web Conference (ESWC 2022). [[Paper]]() 
+{: .text-justify}
 
 * **Nitisha Jain**, Christian Bartz, Tobias Bredow, Emanuel Metzenthin, Jona Otholt, Ralf Krestel: Semantic Analysis of Cultural Heritage Data: Aligning Paintings and Descriptions in Art-Historic Collections. Proceedings of the International Workshop on Fine Art Pattern Extraction and Recognition (FAPER@ICPR), 2020. [[Paper](/assets/papers/CRC_Semantic Analysis of Cultural Heritage Data- Aligning Paintings and Descriptions in Art-Historic Collections.pdf)]
 

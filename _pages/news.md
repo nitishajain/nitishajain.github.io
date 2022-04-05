@@ -23,7 +23,7 @@ author_profile: true
 * (25-27/10) Attending the 15th International Workshop on Neural-Symbolic Learning and Reasoning Workshop ([NeSy'20/21](https://sites.google.com/view/nesy20/home)) co-located with the 1st International Joint Conference on Learning & Reasoning (IJCLR 2021). 
 {: .text-justify}
 
-* (04-08/10) Attending AKBC 2021 and giving a talk on 'Knowledge Graph Representation with Embeddings' at the [USKB workshop](https://uskb-workshop.github.io/). 
+* (04-08/10) Attending AKBC 2021 and giving a [talk](https://uskb-workshop.github.io/abstracts.html) on 'Knowledge Graph Representation with Embeddings' at the [USKB workshop](https://uskb-workshop.github.io/).([Poster](/assets/papers/Poster_USKB@AKBC2021.pdf)) 
 {: .text-justify}
 
 * Extended abstract titled 'Do Embeddings Actually Capture Knowledge Graph Semantics?' has been accepted for presentation at [KR 2021](https://kr2021.kbsg.rwth-aachen.de/) at the Recent Published Research Track. ([Abstract](/assets/papers/USKB_abstract_NitishaJain.pdf))

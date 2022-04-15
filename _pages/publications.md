@@ -8,7 +8,7 @@ author_profile: true
 ---
 
 
-* Maria Lomaeva, **Nitisha Jain**: Relation Canonicalization in Open Knowledge Graphs - A Quantitative Analysis. Proceedings of the Extended Semantic Web Conference (ESWC), 2022. [[Poster]]()
+* Maria Lomaeva, **Nitisha Jain**: Relation Canonicalization in Open Knowledge Graphs - A Quantitative Analysis. Proceedings of the Extended Semantic Web Conference (ESWC), 2022. [[Poster](/assets/papers/ESWC2022_RPCanonicalisation.pdf)]
 {: .text-justify}
 
 * **Nitisha Jain**, Ralf Krestel: Discovering Fine-Grained Semantics in Knowledge Graph Relations. [[Arxiv](https://arxiv.org/abs/2202.08917)] 
@@ -32,7 +32,7 @@ author_profile: true
 ## Workshops
 
 
-* **Nitisha Jain**, Alejandro Sierra-Múnera, Maria Lomaeva, Julius Streit, Simon Thormeyer, Philipp Schmidt and Ralf Krestel: Generating Domain-Specific Knowledge Graphs - Challenges with Open Information Extraction. Proceedings of International Workshop on Knowledge Graph Generation from Text (Text2KG), co-located with the Extended Semantic Web Conference (ESWC 2022). [[Paper]]() 
+* **Nitisha Jain**, Alejandro Sierra-Múnera, Maria Lomaeva, Julius Streit, Simon Thormeyer, Philipp Schmidt and Ralf Krestel: Generating Domain-Specific Knowledge Graphs - Challenges with Open Information Extraction. Proceedings of International Workshop on Knowledge Graph Generation from Text (Text2KG), co-located with the Extended Semantic Web Conference (ESWC 2022). [[Paper](/assets/papers/Generating Domain-Specific Knowledge Graphs-Challenges with Open Information Extraction.pdf)] 
 {: .text-justify}
 
 * **Nitisha Jain**, Christian Bartz, Tobias Bredow, Emanuel Metzenthin, Jona Otholt, Ralf Krestel: Semantic Analysis of Cultural Heritage Data: Aligning Paintings and Descriptions in Art-Historic Collections. Proceedings of the International Workshop on Fine Art Pattern Extraction and Recognition (FAPER@ICPR), 2020. [[Paper](/assets/papers/CRC_Semantic Analysis of Cultural Heritage Data- Aligning Paintings and Descriptions in Art-Historic Collections.pdf)]

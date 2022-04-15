@@ -25,9 +25,9 @@ I am a [PhD researcher](https://hpi.de/naumann/people/nitisha-jain.html) at the 
 {: .text-justify}
 * Attending the Research School in Artificial Intelligence ([AIB 22](https://researchschool.w.uib.no/)) to be held in Bergen, Norway from 7-11 June 2022. Also co-authored the tutorial on [*Neuro-Symbolic Methods for Fact Prediction*](https://researchschool.w.uib.no/overview/) with Fabian Suchanek, Armand Boschin and Gurami Kerechashvili.
 {: .text-justify}
-* (04/04/2022) Poster on our research project with Maria Lomaeva on "Relation Canonicalization in Open Knowledge Graphs: A Quantitative Analysis" accepted at [ESWC 2022](https://2022.eswc-conferences.org/)!
+* (04/04/2022) [Poster](/assets/papers/ESWC2022_RPCanonicalisation.pdf) on our research project with Maria Lomaeva on "Relation Canonicalization in Open Knowledge Graphs: A Quantitative Analysis" accepted at [ESWC 2022](https://2022.eswc-conferences.org/)! 
 {: .text-justify}
-* (29/03/2022) Paper on the automated construction of domain-specific knowledge graphs accepted at the [Text2KG workshop](https://aiisc.ai/text2kg/), co-located with [ESWC 2022](https://2022.eswc-conferences.org/) conference.
+* (29/03/2022) [Paper](/assets/papers/Generating Domain-Specific Knowledge Graphs-Challenges with Open Information Extraction.pdf) on the automated construction of domain-specific knowledge graphs accepted at the [Text2KG workshop](https://aiisc.ai/text2kg/), co-located with [ESWC 2022](https://2022.eswc-conferences.org/) conference. 
 {: .text-justify}
 * (04-08/10) Attending AKBC 2021 and giving a [talk](https://uskb-workshop.github.io/abstracts.html) on 'Knowledge Graph Representation with Embeddings' at the [USKB workshop](https://uskb-workshop.github.io/). [[Poster](/assets/papers/Poster_USKB@AKBC2021.pdf)] 
 * Extended abstract titled "Do Embeddings Actually Capture Knowledge Graph Semantics?" has been accepted for presentation at [KR 2021](https://kr2021.kbsg.rwth-aachen.de/) at the Recent Published Research Track. [[Abstract](/assets/papers/USKB_abstract_NitishaJain.pdf)]
@@ -38,10 +38,10 @@ I am a [PhD researcher](https://hpi.de/naumann/people/nitisha-jain.html) at the 
 
 ## [Publications](/publications/)
 
-* Maria Lomaeva, Nitisha Jain: *Relation Canonicalization in Open Knowledge Graphs - A Quantitative Analysis*. Proceedings of the Extended Semantic Web Conference (ESWC), 2022. [[Poster]]()
+* Maria Lomaeva, Nitisha Jain: *Relation Canonicalization in Open Knowledge Graphs - A Quantitative Analysis*. Proceedings of the Extended Semantic Web Conference (ESWC), 2022. [[Poster](/assets/papers/ESWC2022_RPCanonicalisation.pdf)]
 {: .text-justify}
 
-* Nitisha Jain, Alejandro Sierra-Múnera, Maria Lomaeva, Julius Streit, Simon Thormeyer, Philipp Schmidt and Ralf Krestel: *Generating Domain-Specific Knowledge Graphs - Challenges with Open Information Extraction*. Proceedings of International Workshop on Knowledge Graph Generation from Text (Text2KG), co-located with the Extended Semantic Web Conference (ESWC 2022). [[Paper]]() 
+* Nitisha Jain, Alejandro Sierra-Múnera, Maria Lomaeva, Julius Streit, Simon Thormeyer, Philipp Schmidt and Ralf Krestel: *Generating Domain-Specific Knowledge Graphs - Challenges with Open Information Extraction*. Proceedings of International Workshop on Knowledge Graph Generation from Text (Text2KG), co-located with the Extended Semantic Web Conference (ESWC 2022). [[Paper](/assets/papers/Generating Domain-Specific Knowledge Graphs-Challenges with Open Information Extraction.pdf)]
 {: .text-justify}
 
 * Nitisha Jain, Jan-Christoph Kalo, Wolf-Tilo Balke, Ralf Krestel: *Do Embeddings Actually Capture Knowledge Graph Semantics?*. Proceedings of the International Conference on Principles of Knowledge Representation and Reasoning (KR), 2021 . [[Extended Abstract](/assets/papers/KR2021_Recently_Published_Track_Extended_Abstract.pdf)] [[Poster](/assets/papers/Nitisha_Jain_KR2021_poster.pdf)]

@@ -6,7 +6,11 @@ sitemap: false
 permalink: /news/
 author_profile: true
 ---
-* Serving as PC member for the International Workshop on Artificial Intelligence for Digital Humanities ([AI4DH2021](https://ailb-web.ing.unimore.it/ai4dh2021/)), organized in conjunction with ICIAP 2022.
+
+* Attending the Extended Semantic Web Conference ([ESWC 2022](https://2022.eswc-conferences.org/)) in Crete, Greece from May 29 to June 2 and presenting our paper at Text2KG workshop as well as poster related to relation canonicalization.
+{: .text-justify}
+
+* Serving as PC member for the International Workshop on Artificial Intelligence for Digital Humanities ([AI4DH2021](https://ailb-web.ing.unimore.it/ai4dh2021/)), organized in conjunction with ICIAP 2022 and the workshop on Structured and Unstructured Knowledge Integration ([SUKI](https://suki-workshop.github.io/)) in conjunction with NAACL 2022.
 {: .text-justify}
 
 * Attending the Research School in Artificial Intelligence ([AIB 22](https://researchschool.w.uib.no/)) to be held in Bergen, Norway from 7-11 June 2022. Also co-authored the tutorial on 'Neuro-Symbolic Methods for Fact Prediction' with Fabian Suchanek, Armand Boschin and Gurami Kerechashvili.

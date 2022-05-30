@@ -20,10 +20,11 @@ I am a [PhD researcher](https://hpi.de/naumann/people/nitisha-jain.html) at the 
 
 
 ## [Recent News](/news/)
-
-* Serving as PC member for the International Workshop on Artificial Intelligence for Digital Humanities ([AI4DH2021](https://ailb-web.ing.unimore.it/ai4dh2021/)), organized in conjunction with ICIAP 2022.
-{: .text-justify}
 * Attending the Research School in Artificial Intelligence ([AIB 22](https://researchschool.w.uib.no/)) to be held in Bergen, Norway from 7-11 June 2022. Also co-authored the tutorial on [*Neuro-Symbolic Methods for Fact Prediction*](https://researchschool.w.uib.no/overview/) with Fabian Suchanek, Armand Boschin and Gurami Kerechashvili.
+{: .text-justify}
+* Attending the Extended Semantic Web Conference ([ESWC 2022](https://2022.eswc-conferences.org/)) in Crete, Greece from May 29 to June 2 and presenting our paper at Text2KG workshop as well as poster related to relation canonicalization.
+{: .text-justify}
+* Serving as PC member for the International Workshop on Artificial Intelligence for Digital Humanities ([AI4DH2021](https://ailb-web.ing.unimore.it/ai4dh2021/)), organized in conjunction with ICIAP 2022 and the workshop on Structured and Unstructured Knowledge Integration ([SUKI](https://suki-workshop.github.io/)) in conjunction with NAACL 2022.
 {: .text-justify}
 * (04/04/2022) [Poster](/assets/papers/ESWC2022_RPCanonicalisation.pdf) on our research project with Maria Lomaeva on "Relation Canonicalization in Open Knowledge Graphs: A Quantitative Analysis" accepted at [ESWC 2022](https://2022.eswc-conferences.org/)! 
 {: .text-justify}

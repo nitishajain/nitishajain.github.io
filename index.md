@@ -20,9 +20,11 @@ I am a [PhD researcher](https://hpi.de/naumann/people/nitisha-jain.html) at the 
 
 
 ## [Recent News](/news/)
+* (17/06/2022) Attending the 1st Annual [Symposium](https://www.eventbrite.com/e/1st-annual-symposium-of-the-knowledge-graphs-ig-the-alan-turing-institute-tickets-310987932277) of the [Knowledge Graphs Interest Group](https://www.turing.ac.uk/research/interest-groups/knowledge-graphs) at the Alan Turing Institute in London. 
+{: .text-justify} 
 * Attending the Research School in Artificial Intelligence ([AIB 22](https://researchschool.w.uib.no/)) to be held in Bergen, Norway from 7-11 June 2022. Also co-authored the tutorial on [*Neuro-Symbolic Methods for Fact Prediction*](https://researchschool.w.uib.no/overview/) with Fabian Suchanek, Armand Boschin and Gurami Kerechashvili.
 {: .text-justify}
-* Attending the Extended Semantic Web Conference ([ESWC 2022](https://2022.eswc-conferences.org/)) in Crete, Greece from May 29 to June 2 and presenting our paper at Text2KG workshop as well as poster related to relation canonicalization.
+* Attending the Extended Semantic Web Conference ([ESWC 2022](https://2022.eswc-conferences.org/)) in Crete, Greece from May 29 to June 2; presenting our full paper at Text2KG workshop and our poster related to relation canonicalization (*Update: Our poster was nominated for the best poster award!*).
 {: .text-justify}
 * Serving as PC member for the International Workshop on Artificial Intelligence for Digital Humanities ([AI4DH2021](https://ailb-web.ing.unimore.it/ai4dh2021/)), organized in conjunction with ICIAP 2022 and the workshop on Structured and Unstructured Knowledge Integration ([SUKI](https://suki-workshop.github.io/)) in conjunction with NAACL 2022.
 {: .text-justify}
@@ -39,7 +41,7 @@ I am a [PhD researcher](https://hpi.de/naumann/people/nitisha-jain.html) at the 
 
 ## [Publications](/publications/)
 
-* Maria Lomaeva, Nitisha Jain: *Relation Canonicalization in Open Knowledge Graphs - A Quantitative Analysis*. Proceedings of the Extended Semantic Web Conference (ESWC), 2022. [[Poster](/assets/papers/ESWC2022_RPCanonicalisation.pdf)]
+* Maria Lomaeva, Nitisha Jain: *Relation Canonicalization in Open Knowledge Graphs - A Quantitative Analysis*. Proceedings of the Extended Semantic Web Conference (ESWC), 2022 (**Best Poster Nomination**). [[Poster](/assets/papers/ESWC2022_RPCanonicalisation.pdf)]
 {: .text-justify}
 
 * Nitisha Jain, Alejandro Sierra-Múnera, Maria Lomaeva, Julius Streit, Simon Thormeyer, Philipp Schmidt and Ralf Krestel: *Generating Domain-Specific Knowledge Graphs - Challenges with Open Information Extraction*. Proceedings of International Workshop on Knowledge Graph Generation from Text (Text2KG), co-located with the Extended Semantic Web Conference (ESWC 2022). [[Paper](/assets/papers/Generating Domain-Specific Knowledge Graphs-Challenges with Open Information Extraction.pdf)]

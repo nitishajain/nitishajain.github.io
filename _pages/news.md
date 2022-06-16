@@ -6,8 +6,10 @@ sitemap: false
 permalink: /news/
 author_profile: true
 ---
+* (17/06/2022) Attending the 1st Annual [Symposium](https://www.eventbrite.com/e/1st-annual-symposium-of-the-knowledge-graphs-ig-the-alan-turing-institute-tickets-310987932277) of the [Knowledge Graphs Interest Group](https://www.turing.ac.uk/research/interest-groups/knowledge-graphs) at the Alan Turing Institute in London. 
+{: .text-justify}
 
-* Attending the Extended Semantic Web Conference ([ESWC 2022](https://2022.eswc-conferences.org/)) in Crete, Greece from May 29 to June 2 and presenting our paper at Text2KG workshop as well as poster related to relation canonicalization.
+* Attending the Extended Semantic Web Conference ([ESWC 2022](https://2022.eswc-conferences.org/)) in Crete, Greece from May 29 to June 2; presenting our full paper at Text2KG workshop and our poster related to relation canonicalization (*Update: Our poster was nominated for the best poster award!*).
 {: .text-justify}
 
 * Serving as PC member for the International Workshop on Artificial Intelligence for Digital Humanities ([AI4DH2021](https://ailb-web.ing.unimore.it/ai4dh2021/)), organized in conjunction with ICIAP 2022 and the workshop on Structured and Unstructured Knowledge Integration ([SUKI](https://suki-workshop.github.io/)) in conjunction with NAACL 2022.

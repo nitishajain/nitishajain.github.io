@@ -8,7 +8,7 @@ author_profile: true
 ---
 
 
-* Maria Lomaeva, **Nitisha Jain**: Relation Canonicalization in Open Knowledge Graphs - A Quantitative Analysis. Proceedings of the Extended Semantic Web Conference (ESWC), 2022. [[Poster](/assets/papers/ESWC2022_RPCanonicalisation.pdf)]
+* Maria Lomaeva, **Nitisha Jain**: Relation Canonicalization in Open Knowledge Graphs - A Quantitative Analysis. Proceedings of the Extended Semantic Web Conference (ESWC), 2022 (**Best Poster Nomination**). [[Poster](/assets/papers/ESWC2022_RPCanonicalisation.pdf)] 
 {: .text-justify}
 
 * **Nitisha Jain**, Ralf Krestel: Discovering Fine-Grained Semantics in Knowledge Graph Relations. [[Arxiv](https://arxiv.org/abs/2202.08917)] 

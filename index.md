@@ -20,7 +20,9 @@ I am a [PhD researcher](https://hpi.de/naumann/people/nitisha-jain.html) at the 
 
 
 ## [Recent News](/news/)
-* (17/06/2022) Attending the 1st Annual [Symposium](https://www.eventbrite.com/e/1st-annual-symposium-of-the-knowledge-graphs-ig-the-alan-turing-institute-tickets-310987932277) of the [Knowledge Graphs Interest Group](https://www.turing.ac.uk/research/interest-groups/knowledge-graphs) at the Alan Turing Institute in London. 
+* (04/07) Journal paper on "Generation of Training Data for Named Entity Recognition of Artworks" accepted for the Semantic Web Journal ([preprint](http://www.semantic-web-journal.net/content/generation-training-data-named-entity-recognition-artworks-1)).
+{: .text-justify} 
+* (17/06) Attending the 1st Annual [Symposium](https://www.eventbrite.com/e/1st-annual-symposium-of-the-knowledge-graphs-ig-the-alan-turing-institute-tickets-310987932277) of the [Knowledge Graphs Interest Group](https://www.turing.ac.uk/research/interest-groups/knowledge-graphs) at the Alan Turing Institute in London. 
 {: .text-justify} 
 * Attending the Research School in Artificial Intelligence ([AIB 22](https://researchschool.w.uib.no/)) to be held in Bergen, Norway from 7-11 June 2022. Also co-authored the tutorial on [*Neuro-Symbolic Methods for Fact Prediction*](https://researchschool.w.uib.no/overview/) with Fabian Suchanek, Armand Boschin and Gurami Kerechashvili.
 {: .text-justify}
@@ -28,11 +30,11 @@ I am a [PhD researcher](https://hpi.de/naumann/people/nitisha-jain.html) at the 
 {: .text-justify}
 * Serving as PC member for the International Workshop on Artificial Intelligence for Digital Humanities ([AI4DH2021](https://ailb-web.ing.unimore.it/ai4dh2021/)), organized in conjunction with ICIAP 2022 and the workshop on Structured and Unstructured Knowledge Integration ([SUKI](https://suki-workshop.github.io/)) in conjunction with NAACL 2022.
 {: .text-justify}
-* (04/04/2022) [Poster](/assets/papers/ESWC2022_RPCanonicalisation.pdf) on our research project with Maria Lomaeva on "Relation Canonicalization in Open Knowledge Graphs: A Quantitative Analysis" accepted at [ESWC 2022](https://2022.eswc-conferences.org/)! 
+* (04/04) [Poster](/assets/papers/ESWC2022_RPCanonicalisation.pdf) on our research project with Maria Lomaeva on "Relation Canonicalization in Open Knowledge Graphs: A Quantitative Analysis" accepted at [ESWC 2022](https://2022.eswc-conferences.org/)! 
 {: .text-justify}
-* (29/03/2022) [Paper](/assets/papers/Generating Domain-Specific Knowledge Graphs-Challenges with Open Information Extraction.pdf) on the automated construction of domain-specific knowledge graphs accepted at the [Text2KG workshop](https://aiisc.ai/text2kg/), co-located with [ESWC 2022](https://2022.eswc-conferences.org/) conference. 
+* (29/03) [Paper](/assets/papers/Generating Domain-Specific Knowledge Graphs-Challenges with Open Information Extraction.pdf) on the automated construction of domain-specific knowledge graphs accepted at the [Text2KG workshop](https://aiisc.ai/text2kg/), co-located with [ESWC 2022](https://2022.eswc-conferences.org/) conference. 
 {: .text-justify}
-* (04-08/10) Attending AKBC 2021 and giving a [talk](https://uskb-workshop.github.io/abstracts.html) on 'Knowledge Graph Representation with Embeddings' at the [USKB workshop](https://uskb-workshop.github.io/). [[Poster](/assets/papers/Poster_USKB@AKBC2021.pdf)] 
+* (04-08/10) Attending AKBC 2021 and giving a [talk](https://uskb-workshop.github.io/abstracts.html) on "Knowledge Graph Representation with Embeddings" at the [USKB workshop](https://uskb-workshop.github.io/). [[Poster](/assets/papers/Poster_USKB@AKBC2021.pdf)] 
 * Extended abstract titled "Do Embeddings Actually Capture Knowledge Graph Semantics?" has been accepted for presentation at [KR 2021](https://kr2021.kbsg.rwth-aachen.de/) at the Recent Published Research Track. [[Abstract](/assets/papers/USKB_abstract_NitishaJain.pdf)]
 {: .text-justify}
 * Research paper titled "Improving Knowledge Graph Embeddings with Ontological Reasoning" has been accepted for presentation at the International Semantic Web Conference 2021 ([ISWC 2021](https://iswc2021.semanticweb.org/)). [[Paper](/assets/papers/Improving Knowledge Graph Embeddings with Ontological Reasoning.pdf)]

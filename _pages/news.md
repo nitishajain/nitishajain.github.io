@@ -6,6 +6,9 @@ sitemap: false
 permalink: /news/
 author_profile: true
 ---
+* (10-15/07) Attending the NAACL 2022 conference online and presenting our paper on "Semantics-driven Refinement for Relational Data" at the [SUKI](https://suki-workshop.github.io/papers) workshop.
+{: .text-justify} 
+
 * (04/07/2022) Journal paper on 'Generation of Training Data for Named Entity Recognition of Artworks' accepted for the Semantic Web Journal ([preprint](http://www.semantic-web-journal.net/content/generation-training-data-named-entity-recognition-artworks-1)).
 {: .text-justify}
 

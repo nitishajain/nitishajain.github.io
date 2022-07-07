@@ -20,6 +20,8 @@ I am a [PhD researcher](https://hpi.de/naumann/people/nitisha-jain.html) at the 
 
 
 ## [Recent News](/news/)
+* (10-15/07) Attending the NAACL 2022 conference online and presenting our paper on "Semantics-driven Refinement for Relational Data" at the [SUKI](https://suki-workshop.github.io/papers) workshop.
+{: .text-justify} 
 * (04/07) Journal paper on "Generation of Training Data for Named Entity Recognition of Artworks" accepted for the Semantic Web Journal ([preprint](http://www.semantic-web-journal.net/content/generation-training-data-named-entity-recognition-artworks-1)).
 {: .text-justify} 
 * (17/06) Attending the 1st Annual [Symposium](https://www.eventbrite.com/e/1st-annual-symposium-of-the-knowledge-graphs-ig-the-alan-turing-institute-tickets-310987932277) of the [Knowledge Graphs Interest Group](https://www.turing.ac.uk/research/interest-groups/knowledge-graphs) at the Alan Turing Institute in London. 

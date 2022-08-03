@@ -6,6 +6,9 @@ sitemap: false
 permalink: /news/
 author_profile: true
 ---
+* Paper on "Discovering Fine-Grained Semantics in Knowledge Graph Relations" accepted to the full paper track at [CIKM 2022](https://www.cikm2022.org/)! 
+{: .text-justify} 
+
 * (10-15/07) Attending the NAACL 2022 conference online and presenting our paper on "Semantics-driven Refinement for Relational Data" at the [SUKI](https://suki-workshop.github.io/papers) workshop.
 {: .text-justify} 
 

@@ -13,13 +13,17 @@ permalink: /
 
 ---
 {% comment %}  {% endcomment %} 
+
 ## [About Me](/about/) 
 
 {: .text-justify}
 I am a [PhD researcher](https://hpi.de/naumann/people/nitisha-jain.html) at the [Information Systems Group](https://hpi.de/naumann/home.html) led by Prof. Dr. Felix Naumann at the Hasso Plattner Institute, University of Potsdam. The focus of my research is knowledge bases and natural language processing. 
 
 
+
 ## [Recent News](/news/)
+* (03/08) Paper on "Discovering Fine-Grained Semantics in Knowledge Graph Relations" accepted to the full paper track at [CIKM 2022](https://www.cikm2022.org/)! 
+{: .text-justify} 
 * (10-15/07) Attending the NAACL 2022 conference online and presenting our paper on "Semantics-driven Refinement for Relational Data" at the [SUKI](https://suki-workshop.github.io/papers) workshop.
 {: .text-justify} 
 * (04/07) Journal paper on "Generation of Training Data for Named Entity Recognition of Artworks" accepted for the Semantic Web Journal ([preprint](http://www.semantic-web-journal.net/content/generation-training-data-named-entity-recognition-artworks-1)).
@@ -42,6 +46,8 @@ I am a [PhD researcher](https://hpi.de/naumann/people/nitisha-jain.html) at the 
 * Research paper titled "Improving Knowledge Graph Embeddings with Ontological Reasoning" has been accepted for presentation at the International Semantic Web Conference 2021 ([ISWC 2021](https://iswc2021.semanticweb.org/)). [[Paper](/assets/papers/Improving Knowledge Graph Embeddings with Ontological Reasoning.pdf)]
 {: .text-justify}
 * [All Updates](/news/)
+
+
 
 ## [Publications](/publications/)
 

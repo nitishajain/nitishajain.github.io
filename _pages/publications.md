@@ -7,13 +7,13 @@ permalink: /publications/
 author_profile: true
 ---
 
+* **Nitisha Jain**, Ralf Krestel: Discovering Fine-Grained Semantics in Knowledge Graph Relations. Proceedings of the Thirty-First ACM International Conference on Information and Knowledge Management (CIKM), 2022. 
+{: .text-justify}
+
+* **Nitisha Jain**, Alejandro Sierra, Jan Ehmueller, Ralf Krestel : Generation of Training Data for Named Entity Recognition of Artworks. Semantic Web Journal (SWJ) Special Issue Cultural Heritage 2021. [[PrePrint](https://www.semantic-web-journal.net/system/files/swj3177.pdf)]
 
 * Maria Lomaeva, **Nitisha Jain**: Relation Canonicalization in Open Knowledge Graphs - A Quantitative Analysis. Proceedings of the Extended Semantic Web Conference (ESWC), 2022 (**Best Poster Nomination**). [[Poster](/assets/papers/ESWC2022_RPCanonicalisation.pdf)] 
 {: .text-justify}
-
-* **Nitisha Jain**, Ralf Krestel: Discovering Fine-Grained Semantics in Knowledge Graph Relations. [[Arxiv](https://arxiv.org/abs/2202.08917)] 
-
-* **Nitisha Jain**, Alejandro Sierra, Jan Ehmueller, Ralf Krestel : Generation of Training Data for Named Entity Recognition of Artworks. Semantic Web Journal (SWJ) Special Issue Cultural Heritage 2021. [[Under review](http://www.semantic-web-journal.net/content/generation-training-data-named-entity-recognition-artworks-0)]
 
 * **Nitisha Jain**, Jan-Christoph Kalo, Wolf-Tilo Balke, Ralf Krestel: Do Embeddings Actually Capture Knowledge Graph Semantics?. Proceedings of the International Conference on Principles of Knowledge Representation and Reasoning (KR), 2021. [[Extended Abstract](/assets/papers/KR2021_Recently_Published_Track_Extended_Abstract.pdf)] [[Poster](/assets/papers/Nitisha_Jain_KR2021_poster.pdf)]
 
@@ -31,6 +31,7 @@ author_profile: true
 
 ## Workshops
 
+* **Nitisha Jain**, Ralf Krestel: Semantics-driven Refinement for Relational Data. Structured and Unstructured Knowledge Integration ([SUKI](https://suki-workshop.github.io/papers)) workshop at NAACL 2022. [[Paper](https://suki-workshop.github.io/assets/paper/6.pdf)] 
 
 * **Nitisha Jain**, Alejandro Sierra-Múnera, Maria Lomaeva, Julius Streit, Simon Thormeyer, Philipp Schmidt and Ralf Krestel: Generating Domain-Specific Knowledge Graphs - Challenges with Open Information Extraction. Proceedings of International Workshop on Knowledge Graph Generation from Text (Text2KG), co-located with the Extended Semantic Web Conference (ESWC 2022). [[Paper](/assets/papers/Generating Domain-Specific Knowledge Graphs-Challenges with Open Information Extraction.pdf)] 
 {: .text-justify}

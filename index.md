@@ -51,6 +51,11 @@ I am a [PhD researcher](https://hpi.de/naumann/people/nitisha-jain.html) at the 
 
 ## [Publications](/publications/)
 
+* Nitisha Jain, Ralf Krestel: *Discovering Fine-Grained Semantics in Knowledge Graph Relations*. Proceedings of the Thirty-First ACM International Conference on Information and Knowledge Management (CIKM), 2022. 
+{: .text-justify}
+
+* Nitisha Jain, Alejandro Sierra, Jan Ehmueller, Ralf Krestel : *Generation of Training Data for Named Entity Recognition of Artworks*. Semantic Web Journal (SWJ) Special Issue Cultural Heritage 2021. [[PrePrint](https://www.semantic-web-journal.net/system/files/swj3177.pdf)]
+
 * Maria Lomaeva, Nitisha Jain: *Relation Canonicalization in Open Knowledge Graphs - A Quantitative Analysis*. Proceedings of the Extended Semantic Web Conference (ESWC), 2022 (**Best Poster Nomination**). [[Poster](/assets/papers/ESWC2022_RPCanonicalisation.pdf)]
 {: .text-justify}
 

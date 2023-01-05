@@ -6,7 +6,9 @@ sitemap: false
 permalink: /news/
 author_profile: true
 ---
-* Paper on "Discovering Fine-Grained Semantics in Knowledge Graph Relations" accepted to the full paper track at [CIKM 2022](https://www.cikm2022.org/)! 
+* (05/09) Attending the [AKBC 2022](https://virtual.akbc.ws/) conference in London to present a poster on our CIKM 2022 paper titled "Discovering Fine-Grained Semantics in Knowledge Graph Relations". 
+
+* (03/08) Paper on "Discovering Fine-Grained Semantics in Knowledge Graph Relations" accepted to the full paper track at [CIKM 2022](https://www.cikm2022.org/)! 
 {: .text-justify} 
 
 * (10-15/07) Attending the NAACL 2022 conference online and presenting our paper on "Semantics-driven Refinement for Relational Data" at the [SUKI](https://suki-workshop.github.io/papers) workshop.
@@ -14,6 +16,9 @@ author_profile: true
 
 * (04/07/2022) Journal paper on 'Generation of Training Data for Named Entity Recognition of Artworks' accepted for the Semantic Web Journal ([preprint](http://www.semantic-web-journal.net/content/generation-training-data-named-entity-recognition-artworks-1)).
 {: .text-justify}
+
+* (30/06/2022) Invited presentation titled *Knowledge Graphs Representation and Reasoning with Embeddings* at the SIGKG talks organized by the [ILCC, University of Edinburgh](https://web.inf.ed.ac.uk/ilcc).
+
 
 * (17/06/2022) Attending the 1st Annual [Symposium](https://www.eventbrite.com/e/1st-annual-symposium-of-the-knowledge-graphs-ig-the-alan-turing-institute-tickets-310987932277) of the [Knowledge Graphs Interest Group](https://www.turing.ac.uk/research/interest-groups/knowledge-graphs) at the Alan Turing Institute in London. 
 {: .text-justify}

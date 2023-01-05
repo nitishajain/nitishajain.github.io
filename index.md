@@ -22,13 +22,13 @@ I am a [PhD researcher](https://hpi.de/naumann/people/nitisha-jain.html) at the 
 
 
 ## [Recent News](/news/)
-* (05/09) Attending the [AKBC 2022](https://virtual.akbc.ws/) conference in London to present a poster on our CIKM 2022 paper titled "Discovering Fine-Grained Semantics in Knowledge Graph Relations".
+* (05/09) Attending the [AKBC 2022](https://virtual.akbc.ws/) conference in London to present a poster on our CIKM 2022 paper titled *Discovering Fine-Grained Semantics in Knowledge Graph Relations*.
 {: .text-justify} 
-* (03/08) Paper on "Discovering Fine-Grained Semantics in Knowledge Graph Relations" accepted to the full paper track at [CIKM 2022](https://www.cikm2022.org/)! 
+* (03/08) Paper on *Discovering Fine-Grained Semantics in Knowledge Graph Relations* accepted to the full paper track at [CIKM 2022](https://www.cikm2022.org/)! 
 {: .text-justify} 
-* (10-15/07) Attending the NAACL 2022 conference online and presenting our paper on "Semantics-driven Refinement for Relational Data" at the [SUKI](https://suki-workshop.github.io/papers) workshop.
+* (10-15/07) Attending the NAACL 2022 conference online and presenting our paper on *Semantics-driven Refinement for Relational Data* at the [SUKI](https://suki-workshop.github.io/papers) workshop.
 {: .text-justify} 
-* (04/07) Journal paper on "Generation of Training Data for Named Entity Recognition of Artworks" accepted for the Semantic Web Journal ([preprint](http://www.semantic-web-journal.net/content/generation-training-data-named-entity-recognition-artworks-1)).
+* (04/07) Journal paper on *Generation of Training Data for Named Entity Recognition of Artworks* accepted for the Semantic Web Journal ([preprint](http://www.semantic-web-journal.net/content/generation-training-data-named-entity-recognition-artworks-1)).
 {: .text-justify} 
 * (17/06) Attending the 1st Annual [Symposium](https://www.eventbrite.com/e/1st-annual-symposium-of-the-knowledge-graphs-ig-the-alan-turing-institute-tickets-310987932277) of the [Knowledge Graphs Interest Group](https://www.turing.ac.uk/research/interest-groups/knowledge-graphs) at the Alan Turing Institute in London. 
 {: .text-justify} 
@@ -38,14 +38,14 @@ I am a [PhD researcher](https://hpi.de/naumann/people/nitisha-jain.html) at the 
 {: .text-justify}
 * Serving as PC member for the International Workshop on Artificial Intelligence for Digital Humanities ([AI4DH2021](https://ailb-web.ing.unimore.it/ai4dh2021/)), organized in conjunction with ICIAP 2022 and the workshop on Structured and Unstructured Knowledge Integration ([SUKI](https://suki-workshop.github.io/)) in conjunction with NAACL 2022.
 {: .text-justify}
-* (04/04) [Poster](/assets/papers/ESWC2022_RPCanonicalisation.pdf) on our research project with Maria Lomaeva on "Relation Canonicalization in Open Knowledge Graphs: A Quantitative Analysis" accepted at [ESWC 2022](https://2022.eswc-conferences.org/)! 
+* (04/04) [Poster](/assets/papers/ESWC2022_RPCanonicalisation.pdf) on our research project with Maria Lomaeva on *Relation Canonicalization in Open Knowledge Graphs: A Quantitative Analysis* accepted at [ESWC 2022](https://2022.eswc-conferences.org/)! 
 {: .text-justify}
 * (29/03) [Paper](/assets/papers/Generating Domain-Specific Knowledge Graphs-Challenges with Open Information Extraction.pdf) on the automated construction of domain-specific knowledge graphs accepted at the [Text2KG workshop](https://aiisc.ai/text2kg/), co-located with [ESWC 2022](https://2022.eswc-conferences.org/) conference. 
 {: .text-justify}
-* (04-08/10) Attending AKBC 2021 and giving a [talk](https://uskb-workshop.github.io/abstracts.html) on "Knowledge Graph Representation with Embeddings" at the [USKB workshop](https://uskb-workshop.github.io/). [[Poster](/assets/papers/Poster_USKB@AKBC2021.pdf)] 
-* Extended abstract titled "Do Embeddings Actually Capture Knowledge Graph Semantics?" has been accepted for presentation at [KR 2021](https://kr2021.kbsg.rwth-aachen.de/) at the Recent Published Research Track. [[Abstract](/assets/papers/USKB_abstract_NitishaJain.pdf)]
+* (04-08/10) Attending AKBC 2021 and giving a [talk](https://uskb-workshop.github.io/abstracts.html) on *Knowledge Graph Representation with Embeddings* at the [USKB workshop](https://uskb-workshop.github.io/). [[Poster](/assets/papers/Poster_USKB@AKBC2021.pdf)] 
+* Extended abstract titled *Do Embeddings Actually Capture Knowledge Graph Semantics*" has been accepted for presentation at [KR 2021](https://kr2021.kbsg.rwth-aachen.de/) at the Recent Published Research Track. [[Abstract](/assets/papers/USKB_abstract_NitishaJain.pdf)]
 {: .text-justify}
-* Research paper titled "Improving Knowledge Graph Embeddings with Ontological Reasoning" has been accepted for presentation at the International Semantic Web Conference 2021 ([ISWC 2021](https://iswc2021.semanticweb.org/)). [[Paper](/assets/papers/Improving Knowledge Graph Embeddings with Ontological Reasoning.pdf)]
+* Research paper titled *Improving Knowledge Graph Embeddings with Ontological Reasoning* has been accepted for presentation at the International Semantic Web Conference 2021 ([ISWC 2021](https://iswc2021.semanticweb.org/)). [[Paper](/assets/papers/Improving Knowledge Graph Embeddings with Ontological Reasoning.pdf)]
 {: .text-justify}
 * [All Updates](/news/)
 

@@ -6,15 +6,15 @@ sitemap: false
 permalink: /news/
 author_profile: true
 ---
-* (05/09) Attending the [AKBC 2022](https://virtual.akbc.ws/) conference in London to present a poster on our CIKM 2022 paper titled "Discovering Fine-Grained Semantics in Knowledge Graph Relations". 
+* (05/09) Attending the [AKBC 2022](https://virtual.akbc.ws/) conference in London to present a poster on our CIKM 2022 paper titled *Discovering Fine-Grained Semantics in Knowledge Graph Relations*. 
 
-* (03/08) Paper on "Discovering Fine-Grained Semantics in Knowledge Graph Relations" accepted to the full paper track at [CIKM 2022](https://www.cikm2022.org/)! 
+* (03/08) Paper on *Discovering Fine-Grained Semantics in Knowledge Graph Relations* accepted to the full paper track at [CIKM 2022](https://www.cikm2022.org/)! 
 {: .text-justify} 
 
-* (10-15/07) Attending the NAACL 2022 conference online and presenting our paper on "Semantics-driven Refinement for Relational Data" at the [SUKI](https://suki-workshop.github.io/papers) workshop.
+* (10-15/07) Attending the NAACL 2022 conference online and presenting our paper on *Semantics-driven Refinement for Relational Data* at the [SUKI](https://suki-workshop.github.io/papers) workshop.
 {: .text-justify} 
 
-* (04/07/2022) Journal paper on 'Generation of Training Data for Named Entity Recognition of Artworks' accepted for the Semantic Web Journal ([preprint](http://www.semantic-web-journal.net/content/generation-training-data-named-entity-recognition-artworks-1)).
+* (04/07/2022) Journal paper on *Generation of Training Data for Named Entity Recognition of Artworks* accepted for the Semantic Web Journal ([preprint](http://www.semantic-web-journal.net/content/generation-training-data-named-entity-recognition-artworks-1)).
 {: .text-justify}
 
 * (30/06/2022) Invited presentation titled *Knowledge Graphs Representation and Reasoning with Embeddings* at the SIGKG talks organized by the [ILCC, University of Edinburgh](https://web.inf.ed.ac.uk/ilcc).
@@ -29,10 +29,10 @@ author_profile: true
 * Serving as PC member for the International Workshop on Artificial Intelligence for Digital Humanities ([AI4DH2021](https://ailb-web.ing.unimore.it/ai4dh2021/)), organized in conjunction with ICIAP 2022 and the workshop on Structured and Unstructured Knowledge Integration ([SUKI](https://suki-workshop.github.io/)) in conjunction with NAACL 2022.
 {: .text-justify}
 
-* Attending the Research School in Artificial Intelligence ([AIB 22](https://researchschool.w.uib.no/)) to be held in Bergen, Norway from 7-11 June 2022. Also co-authored the tutorial on 'Neuro-Symbolic Methods for Fact Prediction' with Fabian Suchanek, Armand Boschin and Gurami Kerechashvili.
+* Attending the Research School in Artificial Intelligence ([AIB 22](https://researchschool.w.uib.no/)) to be held in Bergen, Norway from 7-11 June 2022. Also co-authored the tutorial on *Neuro-Symbolic Methods for Fact Prediction* with Fabian Suchanek, Armand Boschin and Gurami Kerechashvili.
 {: .text-justify}
 
-* (04/04/2022) Poster on our research project with Maria Lomaeva on 'Relation Canonicalization in Open Knowledge Graphs: A Quantitative Analysis' accepted at [ESWC 2022](https://2022.eswc-conferences.org/)!
+* (04/04/2022) Poster on our research project with Maria Lomaeva on *Relation Canonicalization in Open Knowledge Graphs: A Quantitative Analysis* accepted at [ESWC 2022](https://2022.eswc-conferences.org/)!
 {: .text-justify}
 
 * (29/03/2022) Paper on the automated construction of domain-specific knowledge graphs accepted at the [Text2KG workshop](https://aiisc.ai/text2kg/), co-located with [ESWC 2022](https://2022.eswc-conferences.org/) conference.
@@ -43,13 +43,13 @@ author_profile: true
 * (25-27/10) Attending the 15th International Workshop on Neural-Symbolic Learning and Reasoning Workshop ([NeSy'20/21](https://sites.google.com/view/nesy20/home)) co-located with the 1st International Joint Conference on Learning & Reasoning (IJCLR 2021). 
 {: .text-justify}
 
-* (04-08/10) Attending AKBC 2021 and giving a [talk](https://uskb-workshop.github.io/abstracts.html) on 'Knowledge Graph Representation with Embeddings' at the [USKB workshop](https://uskb-workshop.github.io/).([Poster](/assets/papers/Poster_USKB@AKBC2021.pdf)) 
+* (04-08/10) Attending AKBC 2021 and giving a [talk](https://uskb-workshop.github.io/abstracts.html) on *Knowledge Graph Representation with Embeddings* at the [USKB workshop](https://uskb-workshop.github.io/).([Poster](/assets/papers/Poster_USKB@AKBC2021.pdf)) 
 {: .text-justify}
 
-* Extended abstract titled 'Do Embeddings Actually Capture Knowledge Graph Semantics?' has been accepted for presentation at [KR 2021](https://kr2021.kbsg.rwth-aachen.de/) at the Recent Published Research Track. ([Abstract](/assets/papers/USKB_abstract_NitishaJain.pdf))
+* Extended abstract titled *Do Embeddings Actually Capture Knowledge Graph Semantics?* has been accepted for presentation at [KR 2021](https://kr2021.kbsg.rwth-aachen.de/) at the Recent Published Research Track. ([Abstract](/assets/papers/USKB_abstract_NitishaJain.pdf))
 {: .text-justify}
 
-* Research paper titled 'Improving Knowledge Graph Embeddings with Ontological Reasoning' has been accepted for presentation at the International Semantic Web Conference 2021. ([ISWC 2021](https://iswc2021.semanticweb.org/)) ([Paper](/assets/papers/Improving Knowledge Graph Embeddings with Ontological Reasoning.pdf))
+* Research paper titled *Improving Knowledge Graph Embeddings with Ontological Reasoning* has been accepted for presentation at the International Semantic Web Conference 2021. ([ISWC 2021](https://iswc2021.semanticweb.org/)) ([Paper](/assets/papers/Improving Knowledge Graph Embeddings with Ontological Reasoning.pdf))
 {: .text-justify}
 
 * (16-20/08/2021) Attended the [VLDB 2021](https://vldb.org/2021/) conference in Copenhagen, Denmark. 

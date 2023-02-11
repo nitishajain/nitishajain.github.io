@@ -8,5 +8,10 @@ author_profile: true
 permalink: /about/
 ---
  
-### I am a [PhD researcher](https://hpi.de/naumann/people/nitisha-jain.html) at the [Information Systems Group](https://hpi.de/naumann/home.html) led by Prof. Dr. Felix Naumann at the Hasso Plattner Institute, University of Potsdam. The focus of my research is knowledge bases and natural language processing. 
+### I am a Postdoctoral candidate at King's College London working with [Dr Albert Merono Penuela](https://www.kcl.ac.uk/people/albert-merono-penuela-1) and [Professor Elena Simperl](https://www.kcl.ac.uk/people/elena-simperl) at the Department of Informatics. The focus of my research is multimodal representations with knowledge graphs and language models. 
+
+<!---
+I am a [PhD researcher](https://hpi.de/naumann/people/nitisha-jain.html) at the [Information Systems Group](https://hpi.de/naumann/home.html) led by Prof. Dr. Felix Naumann at the Hasso Plattner Institute, University of Potsdam. The focus of my research is knowledge bases, semantic web and natural language processing. 
+
+-->
 

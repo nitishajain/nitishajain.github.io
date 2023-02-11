@@ -6,7 +6,12 @@ sitemap: false
 permalink: /news/
 author_profile: true
 ---
+
+* (01/02/2023) **I have joined as a Postdoc candidate at the Informatics Department of King's College London!**
+{: .text-justify}
+
 * (05/09) Attending the [AKBC 2022](https://virtual.akbc.ws/) conference in London to present a poster on our CIKM 2022 paper titled *Discovering Fine-Grained Semantics in Knowledge Graph Relations*. 
+{: .text-justify}
 
 * (03/08) Paper on *Discovering Fine-Grained Semantics in Knowledge Graph Relations* accepted to the full paper track at [CIKM 2022](https://www.cikm2022.org/)! 
 {: .text-justify} 
@@ -18,7 +23,7 @@ author_profile: true
 {: .text-justify}
 
 * (30/06/2022) Invited presentation titled *Knowledge Graphs Representation and Reasoning with Embeddings* at the SIGKG talks organized by the [ILCC, University of Edinburgh](https://web.inf.ed.ac.uk/ilcc).
-
+{: .text-justify}
 
 * (17/06/2022) Attending the 1st Annual [Symposium](https://www.eventbrite.com/e/1st-annual-symposium-of-the-knowledge-graphs-ig-the-alan-turing-institute-tickets-310987932277) of the [Knowledge Graphs Interest Group](https://www.turing.ac.uk/research/interest-groups/knowledge-graphs) at the Alan Turing Institute in London. 
 {: .text-justify}
@@ -26,7 +31,7 @@ author_profile: true
 * Attending the Extended Semantic Web Conference ([ESWC 2022](https://2022.eswc-conferences.org/)) in Crete, Greece from May 29 to June 2; presenting our full paper at Text2KG workshop and our poster related to relation canonicalization (*Update: Our poster was nominated for the best poster award!*).
 {: .text-justify}
 
-* Serving as PC member for the International Workshop on Artificial Intelligence for Digital Humanities ([AI4DH2021](https://ailb-web.ing.unimore.it/ai4dh2021/)), organized in conjunction with ICIAP 2022 and the workshop on Structured and Unstructured Knowledge Integration ([SUKI](https://suki-workshop.github.io/)) in conjunction with NAACL 2022.
+* Serving as PC member for the International Workshop on Artificial Intelligence for Digital Humanities ([AI4DH2021](https://ailb-web.ing.unimore.it/ai4dh2021/)), organized in conjunction with ICIAP 2021 and the workshop on Structured and Unstructured Knowledge Integration ([SUKI2022](https://suki-workshop.github.io/)) in conjunction with NAACL 2022.
 {: .text-justify}
 
 * Attending the Research School in Artificial Intelligence ([AIB 22](https://researchschool.w.uib.no/)) to be held in Bergen, Norway from 7-11 June 2022. Also co-authored the tutorial on *Neuro-Symbolic Methods for Fact Prediction* with Fabian Suchanek, Armand Boschin and Gurami Kerechashvili.
@@ -39,6 +44,7 @@ author_profile: true
 {: .text-justify}
 
 * (22/03/2022) Participated in the Alan Turing Institute [Data Study Group](https://www.turing.ac.uk/collaborate-turing/data-study-groups) showcased at the [AI UK](https://www.turing.ac.uk/ai-uk) annual event held on 22-23 March. 
+{: .text-justify}
 
 * (25-27/10) Attending the 15th International Workshop on Neural-Symbolic Learning and Reasoning Workshop ([NeSy'20/21](https://sites.google.com/view/nesy20/home)) co-located with the 1st International Joint Conference on Learning & Reasoning (IJCLR 2021). 
 {: .text-justify}
@@ -68,4 +74,7 @@ author_profile: true
 {: .text-justify}
 
 * (21-25/09/2020) Attended the prestigious Heidelberg Laureate Forum ([Virtual HLF 2020](https://www.heidelberg-laureate-forum.org/forum/virtual-hlf-2020.html)).
+{: .text-justify}
+
+* (26-27-11-2019) Selected among HPI scholars to attend the European Women in Technology 2019 conference held in Amsterdam.
 {: .text-justify}

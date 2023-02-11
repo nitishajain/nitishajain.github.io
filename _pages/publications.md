@@ -6,6 +6,8 @@ sitemap: false
 permalink: /publications/
 author_profile: true
 ---
+
+
 * **Nitisha Jain**, Ralf Krestel: *Discovering Fine-Grained Semantics in Knowledge Graph Relation*s. Proceedings of the Thirty-First ACM International Conference on Information and Knowledge Management (CIKM), 2022. [[Paper](https://dl.acm.org/doi/10.1145/3511808.3557287)] 
 {: .text-justify}
 

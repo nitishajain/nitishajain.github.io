@@ -2,9 +2,11 @@ main:
   - title: "Home"
     url: /
   - title: "Publications"
-    url: /#publications
+    url: /publications
   - title: "News"
-    url: /#recent
+    url: /news
+  - title: "Miscellaneous"
+    url: /#miscellaneous
   - title: "CV"
     url: /assets/Nitisha_Jain_CV.pdf
 

@@ -17,11 +17,14 @@ permalink: /
 ## [About Me](/about/) 
 
 {: .text-justify}
-I am a [PhD researcher](https://hpi.de/naumann/people/nitisha-jain.html) at the [Information Systems Group](https://hpi.de/naumann/home.html) led by Prof. Dr. Felix Naumann at the Hasso Plattner Institute, University of Potsdam. The focus of my research is knowledge bases, semantic web and natural language processing. 
+
+I am a Postdoctoral candidate at King's College London working with [Dr Albert Merono Penuela](https://www.kcl.ac.uk/people/albert-merono-penuela-1) and [Professor Elena Simperl](https://www.kcl.ac.uk/people/elena-simperl) at the Department of Informatics. The focus of my research is multimodal representations with knowledge graphs and language models. 
 
 
 
 ## [Recent News](/news/)
+* (01/02/2023) **I have joined as a Postdoc candidate at the Informatics Department of King's College London!**
+{: .text-justify}
 * (05/09) Attending the [AKBC 2022](https://virtual.akbc.ws/) conference in London to present a poster on our CIKM 2022 paper titled *Discovering Fine-Grained Semantics in Knowledge Graph Relations*.
 {: .text-justify} 
 * (03/08) Paper on *Discovering Fine-Grained Semantics in Knowledge Graph Relations* accepted to the full paper track at [CIKM 2022](https://www.cikm2022.org/)! 
@@ -107,6 +110,13 @@ I am a [PhD researcher](https://hpi.de/naumann/people/nitisha-jain.html) at the 
 
 <!--- # [Projects](/projects) --->
 
+## [Miscellaneous](/miscellaneous/) 
 
----
+* Reviewed papers for Semantic Web Journal(2022), WebConference(2022), ESWC(2022), CIKM(2022), LWDA(2022), EMNLP(2021), LWDA(2020), AAAI(2019).
+{: .text-justify}
+* PC member for AI4DH 2021 (held in conjunction with ICIAP 2021), SUKI 2022 (in conjunction with NAACL 2022).
+{: .text-justify}
+
+* [Talks and Teaching](/miscellaneous/)
+
 

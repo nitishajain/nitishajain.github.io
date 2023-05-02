@@ -18,7 +18,7 @@ permalink: /
 
 {: .text-justify}
 
-I am a Postdoctoral candidate at King's College London working with [Dr Albert Merono Penuela](https://www.kcl.ac.uk/people/albert-merono-penuela-1) and [Professor Elena Simperl](https://www.kcl.ac.uk/people/elena-simperl) at the Department of Informatics. The focus of my research is multimodal representations with knowledge graphs and language models. 
+I am a [Postdoctoral candidate](https://www.kcl.ac.uk/people/nitisha-jain) at King's College London working with [Dr Albert Merono Penuela](https://www.kcl.ac.uk/people/albert-merono-penuela-1) and [Professor Elena Simperl](https://www.kcl.ac.uk/people/elena-simperl) at the Department of Informatics. The focus of my research is multimodal representations with knowledge graphs and language models. 
 
 
 

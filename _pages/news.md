@@ -11,7 +11,7 @@ author_profile: true
 * (26/05) The first edition of our workshop [GeNeSy](https://sites.google.com/view/genesy2024/)(Generative Neuro-Symbolic AI) was a great success at the ESWC 2024 conference. Many thanks to my co-organizers Jacopo, Jongmo and Filip for the fantastic collaboration as well as to all the authors, speakers, and attendees in Greece for making it unforgettable.
 {: .text-justify}
 
-* (18/06) Attending the Knowledge Graphs and Ontologies for Intelligence, Defence and Security Symposium at at Cheltenham Racecourse, UK and presenting [poster]() titled *Towards a Standardised Data Documentation Format for Cultural Heritage Collections*. 
+* (18/06) Attending the Knowledge Graphs and Ontologies for Intelligence, Defence and Security Symposium at at Cheltenham Racecourse, UK and presenting [poster](/assets/papers/Dstl_Nitisha_Jain_Poster.pdf) titled *Towards a Standardised Data Documentation Format for Cultural Heritage Collections*. 
 {: .text-justify}
 
 * (15/06) Our short paper *Bringing Back Semantics to Knowledge Graph Embeddings : An Interpretability Approach* has been accepted for the Neural-Symbolic Learning and Reasoning ([NeSy](https://sites.google.com/view/nesy2024)) conference! The work was led by our intern Antoine Dominques. 
@@ -20,7 +20,7 @@ author_profile: true
 * (14/06) Blog post summarizing our work on the Measurement of Semantic Drift in Discourse on Disabilities in the context of the MuseIT project [available now](https://www.muse-it.eu/post/preserving-the-past-embracing-the-future-how-museit-is-revolutionizing-cultural-heritage-with-tech).
 {: .text-justify}
 
-* (10/06) Presenting a [poster]() titled *Croissant: Fostering Responsible AI with a Standardized Data Documentation Format* at the [2024 Informatics Research showcase](https://www.eventbrite.co.uk/e/informatics-research-showcase-2024-discover-how-to-innovate-with-us-tickets-873282991937?aff=oddtdtcreator) at the Great Hall in King's College London. 
+* (10/06) Presenting a [poster](/assets/papers/KCL_showcase_Croissant_poster_updated.pdf) titled *Croissant: Fostering Responsible AI with a Standardized Data Documentation Format* at the [2024 Informatics Research showcase](https://www.eventbrite.co.uk/e/informatics-research-showcase-2024-discover-how-to-innovate-with-us-tickets-873282991937?aff=oddtdtcreator) at the Great Hall in King's College London. 
 {: .text-justify}
 
 
@@ -48,6 +48,9 @@ author_profile: true
 {: .text-justify}
 
 * (22/10) The [MuseIT Consortium Meeting](https://www.muse-it.eu/post/a-learning-workshop-on-how-to-achieve-accessibility-and-inclusion-while-preparing-for-project-events) was organized by Catalink from 18 to 20 October in Nicosia, Cyprus. It was wonderful meeting the project colleagues in person and sharing our ongoing research tasks.
+{: .text-justify}
+
+* (13/10) * (13/10) **Today I have successfully [defended my PhD Thesis](https://www.linkedin.com/posts/nitisha-jain_art-activity-7123241991886270464-uUOx?utm_source=share&utm_medium=member_desktop) titled "Representation and Curation of Knowledge Graphs with Embeddings" at the Hasso Plattner Institute! After months of delay, happy to be finally finishing this chapter of my life :-)**
 {: .text-justify}
 
 * (01/08) Participating in the Knowledge Prompting Hackathon(https://king-s-knowledge-graph-lab.github.io/knowledge-prompting-hackathon/), a 5-day sprint style research activity being organized by our group from August 07 - 10 at King's College London. Looking forward to mentoring students on the topic of LLMs for multi-modal knowledge acquisition and inferencing.

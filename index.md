@@ -18,67 +18,90 @@ permalink: /
 
 {: .text-justify}
 
-I am a [Postdoctoral candidate](https://www.kcl.ac.uk/people/nitisha-jain) at King's College London working with [Dr Albert Merono Penuela](https://www.kcl.ac.uk/people/albert-merono-penuela-1) and [Professor Elena Simperl](https://www.kcl.ac.uk/people/elena-simperl) at the Department of Informatics. The focus of my research is multimodal representations with knowledge graphs and language models. 
+I am a [Postdoctoral candidate](https://www.kcl.ac.uk/people/nitisha-jain) at King's College London working with [Dr Albert Meroño Peñuela](https://www.kcl.ac.uk/people/albert-merono-penuela-1) and [Professor Elena Simperl](https://www.kcl.ac.uk/people/elena-simperl) at the Department of Informatics. My research is focussed on Responsible AI and Explainable AI with neuro-symbolic methods. I also work on multimodal representations with knowledge graphs and large language models. 
 
 
 
 ## [Recent News](/news/)
+
+
+
+* (26/05) The first edition of our workshop [GeNeSy](https://sites.google.com/view/genesy2024/)(Generative Neuro-Symbolic AI) was a great success at the ESWC 2024 conference. Many thanks to my co-organizers Jacopo, Jongmo and Filip for the fantastic collaboration as well as to all the authors, speakers, and attendees in Greece for making it unforgettable.
+{: .text-justify}
+
+* (18/06) Attending the Knowledge Graphs and Ontologies for Intelligence, Defence and Security Symposium at at Cheltenham Racecourse, UK and presenting [poster](/assets/papers/Dstl_Nitisha_Jain_Poster.pdf) titled *Towards a Standardised Data Documentation Format for Cultural Heritage Collections*. 
+{: .text-justify}
+
+* (15/06) Our short paper *Bringing Back Semantics to Knowledge Graph Embeddings : An Interpretability Approach* has been accepted for the Neural-Symbolic Learning and Reasoning ([NeSy](https://sites.google.com/view/nesy2024)) conference! The work was led by our intern Antoine Dominques. 
+{: .text-justify}
+
+* (14/06) Blog post summarizing our work on the Measurement of Semantic Drift in Discourse on Disabilities in the context of the MuseIT project [available now](https://www.muse-it.eu/post/preserving-the-past-embracing-the-future-how-museit-is-revolutionizing-cultural-heritage-with-tech).
+{: .text-justify}
+
+* (10/06) Presenting a [poster](/assets/papers/KCL_showcase_Croissant_poster_updated.pdf) titled *Croissant: Fostering Responsible AI with a Standardized Data Documentation Format* at the [2024 Informatics Research showcase](https://www.eventbrite.co.uk/e/informatics-research-showcase-2024-discover-how-to-innovate-with-us-tickets-873282991937?aff=oddtdtcreator) at the Great Hall in King's College London. 
+{: .text-justify}
+
+* (21/04) Our paper on the Croissant metadata standard has been accepted for presentation at the [DEEM](https://deem-workshop.github.io/) workshop co-located with SIGMOD 2024, preprint available [here](https://arxiv.org/abs/2403.19546). 
+{: .text-justify}
+
+* (27/04) Attended the [4th MuseIT Consortium Meeting](https://www.muse-it.eu/post/4th-museit-consortium-meeting-in-scotland) from 24 to 26 April being held at the St Cecilia's Hall in Edinburgh and Traquair House near Innerleithen, one of the oldest Scottish castles! 
+{: .text-justify}
+
+* (06/03) Happy to announce the [official launch](https://research.google/blog/croissant-a-metadata-format-for-ml-ready-datasets/) of Croissant, a new metadata format for ML-ready datasets alongwith the [first version](https://docs.mlcommons.org/croissant/docs/croissant-rai-spec.html) of the Responsible AI (RAI) vocabulary. 
+
+
+**2023**
+
+* (01/12) I will be in New Orleans attending the premier AI conference [NeurIPS 2023](https://neurips.cc/Conferences/2023) from 10-16 December, looking forward to an enriching and exciting week of state-of-the-art research showcases, meetings and presenting our ongoing work on [Croissant](https://github.com/mlcommons/croissant) metadata standard at the Google booth!
+{: .text-justify}
+
+* Attending the [First Multimodal AI Research Sprint](https://multimodalai.github.io/multimodalai-sprint23/) at the Alan Turing Institute in London on 22 November and presenting our pitch on Semantic Interpretations of Multimodal Embeddings towards Explainable AI.
+
+
+* (04/11) I am excited to join the OC of the Extended Semantic Web Conference (ESWC) 2024 as the [Sponsorship Co-Chair](https://2024.eswc-conferences.org/organising-committee/), alongside Jan-Christoph Kalo! Many thanks to the General Chair Albert for the wonderful opportunity and looking forward to the experience. 
+{: .text-justify}
+
+* (4/11) Attending the International Semantic Web Conference (ISWC) 2023 being held from November 6-10 in Athens, Greece. Excited to be finally attending ISWC in person, and to present our resource paper on [Polifonia Ontology Network](https://iswc2023.semanticweb.org/accepted-papers/) in the main conference as well as the winning entry for the [LM-KBC Challenge](https://lm-kbc.github.io/challenge2023/) this year! 
+{: .text-justify}
+
+* (22/10) The [MuseIT Consortium Meeting](https://www.muse-it.eu/post/a-learning-workshop-on-how-to-achieve-accessibility-and-inclusion-while-preparing-for-project-events) was organized by Catalink from 18 to 20 October in Nicosia, Cyprus. It was wonderful meeting the project colleagues in person and sharing our ongoing research tasks.
+{: .text-justify}
+
+* (13/10) **Today I have successfully [defended my PhD Thesis](https://www.linkedin.com/posts/nitisha-jain_art-activity-7123241991886270464-uUOx?utm_source=share&utm_medium=member_desktop) titled "Representation and Curation of Knowledge Graphs with Embeddings" at the Hasso Plattner Institute! After months of delay, happy to be finally finishing this chapter of my life :-)**
+{: .text-justify}
+
+* (01/08) Participating in the Knowledge Prompting Hackathon(https://king-s-knowledge-graph-lab.github.io/knowledge-prompting-hackathon/), a 5-day sprint style research activity being organized by our group from August 07 - 10 at King's College London. Looking forward to mentoring students on the topic of LLMs for multi-modal knowledge acquisition and inferencing.
+
+* (25/06) I will be participating in the [First Workshop on Multimodal AI](https://multimodalai.github.io/multimodalai23/) in Sheffield on 27th June and presenting a pitch and poster on [Semantic Interpretations of Multimodal Embeddings towards Explainable AI]().
+{: .text-justify} 
+
+* Attending the 2nd Annual [Symposium](https://github.com/turing-knowledge-graphs/meet-ups/blob/main/symposium-2023.md) of The Turing Interest Group on Knowledge Graphs at City, University of London on June 16th.
+
+
 * (01/02/2023) **I have joined as a Postdoc candidate at the Informatics Department of King's College London!**
 {: .text-justify}
-* (05/09) Attending the [AKBC 2022](https://virtual.akbc.ws/) conference in London to present a poster on our CIKM 2022 paper titled *Discovering Fine-Grained Semantics in Knowledge Graph Relations*.
-{: .text-justify} 
-* (03/08) Paper on *Discovering Fine-Grained Semantics in Knowledge Graph Relations* accepted to the full paper track at [CIKM 2022](https://www.cikm2022.org/)! 
-{: .text-justify} 
-* (10-15/07) Attending the NAACL 2022 conference online and presenting our paper on *Semantics-driven Refinement for Relational Data* at the [SUKI](https://suki-workshop.github.io/papers) workshop.
-{: .text-justify} 
-* (04/07) Journal paper on *Generation of Training Data for Named Entity Recognition of Artworks* accepted for the Semantic Web Journal ([preprint](http://www.semantic-web-journal.net/content/generation-training-data-named-entity-recognition-artworks-1)).
-{: .text-justify} 
-* (17/06) Attending the 1st Annual [Symposium](https://www.eventbrite.com/e/1st-annual-symposium-of-the-knowledge-graphs-ig-the-alan-turing-institute-tickets-310987932277) of the [Knowledge Graphs Interest Group](https://www.turing.ac.uk/research/interest-groups/knowledge-graphs) at the Alan Turing Institute in London. 
-{: .text-justify} 
-* Attending the Research School in Artificial Intelligence ([AIB 22](https://researchschool.w.uib.no/)) to be held in Bergen, Norway from 7-11 June 2022. Also co-authored the tutorial on [*Neuro-Symbolic Methods for Fact Prediction*](https://researchschool.w.uib.no/overview/) with Fabian Suchanek, Armand Boschin and Gurami Kerechashvili.
-{: .text-justify}
-* Attending the Extended Semantic Web Conference ([ESWC 2022](https://2022.eswc-conferences.org/)) in Crete, Greece from May 29 to June 2; presenting our full paper at Text2KG workshop and our poster related to relation canonicalization (*Update: Our poster was nominated for the best poster award!*).
-{: .text-justify}
-* Serving as PC member for the International Workshop on Artificial Intelligence for Digital Humanities ([AI4DH2021](https://ailb-web.ing.unimore.it/ai4dh2021/)), organized in conjunction with ICIAP 2022 and the workshop on Structured and Unstructured Knowledge Integration ([SUKI](https://suki-workshop.github.io/)) in conjunction with NAACL 2022.
-{: .text-justify}
-* (04/04) [Poster](/assets/papers/ESWC2022_RPCanonicalisation.pdf) on our research project with Maria Lomaeva on *Relation Canonicalization in Open Knowledge Graphs: A Quantitative Analysis* accepted at [ESWC 2022](https://2022.eswc-conferences.org/)! 
-{: .text-justify}
-* (29/03) [Paper](/assets/papers/Generating Domain-Specific Knowledge Graphs-Challenges with Open Information Extraction.pdf) on the automated construction of domain-specific knowledge graphs accepted at the [Text2KG workshop](https://aiisc.ai/text2kg/), co-located with [ESWC 2022](https://2022.eswc-conferences.org/) conference. 
-{: .text-justify}
-* (04-08/10) Attending AKBC 2021 and giving a [talk](https://uskb-workshop.github.io/abstracts.html) on *Knowledge Graph Representation with Embeddings* at the [USKB workshop](https://uskb-workshop.github.io/). [[Poster](/assets/papers/Poster_USKB@AKBC2021.pdf)] 
-* Extended abstract titled *Do Embeddings Actually Capture Knowledge Graph Semantics*" has been accepted for presentation at [KR 2021](https://kr2021.kbsg.rwth-aachen.de/) at the Recent Published Research Track. [[Abstract](/assets/papers/USKB_abstract_NitishaJain.pdf)]
-{: .text-justify}
-* Research paper titled *Improving Knowledge Graph Embeddings with Ontological Reasoning* has been accepted for presentation at the International Semantic Web Conference 2021 ([ISWC 2021](https://iswc2021.semanticweb.org/)). [[Paper](/assets/papers/Improving Knowledge Graph Embeddings with Ontological Reasoning.pdf)]
-{: .text-justify}
+
 * [All Updates](/news/)
 
 
 
 ## [Recent Publications and Talks](/publications/)
-* Nitisha Jain, Ralf Krestel: *Discovering Fine-Grained Semantics in Knowledge Graph Relations*. Poster presentation at the 4th Conference on Automated Knowledge Base Construction (AKBC 2022) 2022. [[Poster](/assets/papers/Poster - Discovering Fine-Grained Semantics in Knowledge Graph Relations.pdf)]
+
+* Mubashara Akhtar, Omar Benjelloun, Costanza Conforti, Pieter Gijsbers, Joan Giner-Miguelez, **Nitisha Jain**, Michael Kuchnik, Quentin Lhoest, Pierre Marcenac, Manil Maskey, Peter Mattson, Luis Oala, Pierre Ruyssen, Rajat Shinde, Elena Simperl, Goeffry Thomas, Slava Tykhonov, Joaquin Vanschoren, Jos van der Velde, Steffen Vogler, Carole-Jean Wu: *Croissant: A Metadata Format for ML-Ready Datasets*. Proceedings of the Eighth Workshop on Data Management for End-to-End Machine Learning (DEEM), 2024. [[Paper](https://dl.acm.org/doi/abs/10.1145/3650203.3663326)] 
 {: .text-justify}
 
-* Nitisha Jain, Ralf Krestel: *Discovering Fine-Grained Semantics in Knowledge Graph Relations*. Proceedings of the Thirty-First ACM International Conference on Information and Knowledge Management (CIKM), 2022. 
+* Antoine Domingues, **Nitisha Jain**, Albert Meroño Peñuela, Elena Simperl: *Bringing Back Semantics to Knowledge Graph
+Embeddings : An Interpretability Approach*. Proceedings of the 18th International Conference on Neural-Symbolic
+Learning and Reasoning (NeSy), 2024. [[Paper](https://kclpure.kcl.ac.uk/ws/portalfiles/portal/273022079/NeSy_final.pdf)] 
 {: .text-justify}
 
-* Nitisha Jain, Alejandro Sierra, Jan Ehmueller, Ralf Krestel: *Generation of Training Data for Named Entity Recognition of Artworks*. Semantic Web Journal (SWJ) Volume 14, Number 2, 2023 - Special Issue on Cultural Heritage and Semantic Web. [[PrePrint](https://www.semantic-web-journal.net/system/files/swj3177.pdf)]
+* Jacopo de Berardinis, Valentina Anita Carriero, **Nitisha Jain**, Nicolas Lazzari, Albert Meroño-Peñuela, Andrea Poltronieri, Valentina Presutti: *The Polifonia Ontology Network: Building a Semantic Backbone for Musical Heritage*. Proceedings of the 22nd International Semantic Web Conference (ISWC), 2023. [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-47243-5_17)] 
 {: .text-justify}
 
-* Maria Lomaeva, Nitisha Jain: *Relation Canonicalization in Open Knowledge Graphs - A Quantitative Analysis*. Proceedings of the Extended Semantic Web Conference (ESWC), 2022 (**Best Poster Nomination**). [[Poster](/assets/papers/ESWC2022_RPCanonicalisation.pdf)]
-{: .text-justify}
-
-* Nitisha Jain, Alejandro Sierra-Múnera, Maria Lomaeva, Julius Streit, Simon Thormeyer, Philipp Schmidt and Ralf Krestel: *Generating Domain-Specific Knowledge Graphs - Challenges with Open Information Extraction*. Proceedings of International Workshop on Knowledge Graph Generation from Text (Text2KG), co-located with the Extended Semantic Web Conference (ESWC 2022). [[Paper](/assets/papers/Generating Domain-Specific Knowledge Graphs-Challenges with Open Information Extraction.pdf)]
+* Bohui Zhang, Ioannis Reklos, **Nitisha Jain**, Albert Meroño Peñuela, Elena Simperl: *Using Large Language Models for Knowledge Engineering (LLMKE): A Case Study on Wikidata*. Joint proceedings of the KBC-LM workshop and the LM-KBC challenge @ ISWC 2023. [[Paper](https://ceur-ws.org/Vol-3577/paper8.pdf)] 
 {: .text-justify}
 
 
-* Nitisha Jain, Jan-Christoph Kalo, Wolf-Tilo Balke, Ralf Krestel: *Do Embeddings Actually Capture Knowledge Graph Semantics?*.  Paper presentation at the Proceedings of the International Conference on Principles of Knowledge Representation and Reasoning (KR), 2021 . [[Extended Abstract](/assets/papers/KR2021_Recently_Published_Track_Extended_Abstract.pdf)] [[Poster](/assets/papers/Nitisha_Jain_KR2021_poster.pdf)]
-{: .text-justify}
-
-* Nitisha Jain, Trung-Kien Tran, Mohamed H. Gad-Elrab, Daria Stepanova: *Improving Knowledge Graph Embeddings with Ontological Reasoning*. Proceedings of the International Semantic Web Conference (ISWC), 2021 . [[Paper](/assets/papers/Improving Knowledge Graph Embeddings with Ontological Reasoning.pdf)] [[Talk](/assets/papers/Jain-259.mp4)]
-{: .text-justify}
-
-* Nitisha Jain, Jan-Christoph Kalo, Wolf-Tilo Balke, Ralf Krestel: *Do Embeddings Actually Capture Knowledge Graph Semantics?*. Proceedings of the Extended Semantic Web Conference (ESWC), 2021. [[Paper](/assets/papers/Do Embeddings Actually Capture Knowledge Graph Semantics.pdf)]
-{: .text-justify}
 
 * [All Publications](/publications/)
 
@@ -112,11 +135,38 @@ I am a [Postdoctoral candidate](https://www.kcl.ac.uk/people/nitisha-jain) at Ki
 
 ## [Miscellaneous](/miscellaneous/) 
 
+
+### Service
+
+* Organization of the Workshop on Generative Neuro-Symbolic AI ([GeNeSy](https://sites.google.com/view/genesy2024/)), co-located with ESWC 2024.
+
+* Sponsorship Chair of the ESWC 2024 conference along with Jan-Christoph Kalo. 
+
+* Paper reviewing 
+	* 2024 : Semantics 
+	* 2023 : TKDD, Semantic Web Journal
+	* 2022 : Semantic Web Journal, WebConference, ESWC, CIKM, LWDA, 
+	* Previously : EMNLP(2021) LWDA(2020), AAAI(2019).
+{: .text-justify}
+
+* PC member for AI4DH 2021 (held in conjunction with ICIAP 2021), SUKI 2022 (in conjunction with NAACL 2022).
+{: .text-justify}
+
 * Reviewed papers for Semantic Web Journal(2022), WebConference(2022), ESWC(2022), CIKM(2022), LWDA(2022), EMNLP(2021), LWDA(2020), AAAI(2019).
 {: .text-justify}
 * PC member for AI4DH 2021 (held in conjunction with ICIAP 2021), SUKI 2022 (in conjunction with NAACL 2022).
 {: .text-justify}
 
-* [Talks and Teaching](/miscellaneous/)
+
+### Teaching and Supervision
+
+* January 2024 - Teaching Assistant for Network Data Analysis (Masters lecture)
+{: .text-justify}
+* Summer 2024 - Bringing Back Semantics to Knowledge Graph Embeddings : An Interpretability Approach (internship), Student : Antoine Domingues, MSc, ENSTA Paris
+{: .text-justify}
+* Summer 2023 - Evaluation of the understanding and knowledge of Large Language Models compared to Knowledge Graphs (internship),  Albin Joyeux, MSc, ENSTA PAris
+{: .text-justify}
+* Summer 2023 - Collaborative Use Of Generative AI (internship), Student : Shantanu Suwarnkar
+{: .text-justify}
 
 

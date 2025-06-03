@@ -31,7 +31,7 @@ I am a [Postdoctoral candidate](https://www.kcl.ac.uk/people/nitisha-jain) at Ki
 **2024**
 
 
-* (30/11) Attended the 10th [Meet-up](https://github.com/turing-knowledge-graphs/meet-ups/blob/main/agenda-10th-meetup.md) of The Turing Interest Group on Knowledge Graphs in at the Edinburgh Future Institute, University of Edinburgh and gave a [presentation] (/ssets/slides/KG_meetup_Edinburgh_InterpretE_NItisha.pdf) titled 'Towards Interpretable Embeddings: Aligning Representations with Semantic Aspects'.
+* (30/11) Attended the 10th [Meet-up](https://github.com/turing-knowledge-graphs/meet-ups/blob/main/agenda-10th-meetup.md) of The Turing Interest Group on Knowledge Graphs in at the Edinburgh Future Institute, University of Edinburgh and gave a [presentation] (/assets/slides/KG_meetup_Edinburgh_InterpretE_NItisha.pdf) titled 'Towards Interpretable Embeddings: Aligning Representations with Semantic Aspects'.
 {: .text-justify}
 
 * (17/09) Excited to have been invited to present our work on the Croissant metadata standard and the Responsonsible AI vocabulary at the Sony AI Journal Club with a talk titled 'Croissant-RAI: Standardized Machine-readable Dataset Documentation Format for Responsible AI' (slides [here](/assets/slides/SonyAITalk_ResponsibleAI_with_Croissant.pdf)).
@@ -99,7 +99,7 @@ I am a [Postdoctoral candidate](https://www.kcl.ac.uk/people/nitisha-jain) at Ki
 
 ## [Recent Publications and Talks](/publications/)
 
-* Mubashara Akhtar, Omar Benjelloun, Costanza Conforti, Pieter Gijsbers, Joan Giner-Miguelez, **Nitisha Jain**, Michael Kuchnik, Quentin Lhoest, Pierre Marcenac, Manil Maskey, Peter Mattson, Luis Oala, Pierre Ruyssen, Rajat Shinde, Elena Simperl, Goeffry Thomas, Slava Tykhonov, Joaquin Vanschoren, Jos van der Velde, Steffen Vogler, Carole-Jean Wu: *Croissant: A Metadata Format for ML-Ready Datasets*. Proceedings of the Eighth Workshop on Data Management for End-to-End Machine Learning (DEEM), 2024. [[Paper](https://dl.acm.org/doi/abs/10.1145/3650203.3663326)] 
+* Mubashara Akhtar, Omar Benjelloun, Costanza Conforti, Pieter Gijsbers, Joan Giner-Miguelez, **Nitisha Jain** et al.: *Croissant: A Metadata Format for ML-Ready Datasets*. Proceedings of the Eighth Workshop on Data Management for End-to-End Machine Learning (DEEM), 2024. [[Paper](https://dl.acm.org/doi/abs/10.1145/3650203.3663326)] 
 {: .text-justify}
 
 * Antoine Domingues, **Nitisha Jain**, Albert Meroño Peñuela, Elena Simperl: *Bringing Back Semantics to Knowledge Graph
@@ -107,8 +107,9 @@ Embeddings : An Interpretability Approach*. Proceedings of the 18th Internationa
 Learning and Reasoning (NeSy), 2024. [[Paper](https://kclpure.kcl.ac.uk/ws/portalfiles/portal/273022079/NeSy_final.pdf)] 
 {: .text-justify}
 
-* Jacopo de Berardinis, Valentina Anita Carriero, **Nitisha Jain**, Nicolas Lazzari, Albert Meroño-Peñuela, Andrea Poltronieri, Valentina Presutti: *The Polifonia Ontology Network: Building a Semantic Backbone for Musical Heritage*. Proceedings of the 22nd International Semantic Web Conference (ISWC), 2023. [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-47243-5_17)] 
+* Jacopo de Berardinis, Valentina Anita Carriero, **Nitisha Jain** et al.: *The Polifonia Ontology Network: Building a Semantic Backbone for Musical Heritage*. Proceedings of the 22nd International Semantic Web Conference (ISWC), 2023. [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-47243-5_17)] 
 {: .text-justify}
+
 
 * Bohui Zhang, Ioannis Reklos, **Nitisha Jain**, Albert Meroño Peñuela, Elena Simperl: *Using Large Language Models for Knowledge Engineering (LLMKE): A Case Study on Wikidata*. Joint proceedings of the KBC-LM workshop and the LM-KBC challenge @ ISWC 2023. [[Paper](https://ceur-ws.org/Vol-3577/paper8.pdf)] 
 {: .text-justify}

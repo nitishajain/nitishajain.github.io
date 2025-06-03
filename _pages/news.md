@@ -12,7 +12,7 @@ author_profile: true
 **2024**
 
 
-* (30/11) Attended the 10th [Meet-up](https://github.com/turing-knowledge-graphs/meet-ups/blob/main/agenda-10th-meetup.md) of The Turing Interest Group on Knowledge Graphs in at the Edinburgh Future Institute, University of Edinburgh and gave a [presentation] (/ssets/slides/KG_meetup_Edinburgh_InterpretE_NItisha.pdf) titled 'Towards Interpretable Embeddings: Aligning Representations with Semantic Aspects'.
+* (30/11) Attended the 10th [Meet-up](https://github.com/turing-knowledge-graphs/meet-ups/blob/main/agenda-10th-meetup.md) of The Turing Interest Group on Knowledge Graphs in at the Edinburgh Future Institute, University of Edinburgh and gave a [presentation] (/assets/slides/KG_meetup_Edinburgh_InterpretE_NItisha.pdf) titled 'Towards Interpretable Embeddings: Aligning Representations with Semantic Aspects'.
 {: .text-justify}
 
 * (17/09) Excited to have been invited to present our work on the Croissant metadata standard and the Responsonsible AI vocabulary at the Sony AI Journal Club with a talk titled 'Croissant-RAI: Standardized Machine-readable Dataset Documentation Format for Responsible AI' (slides [here](/assets/slides/SonyAITalk_ResponsibleAI_with_Croissant.pdf)).

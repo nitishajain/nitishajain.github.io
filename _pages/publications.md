@@ -7,57 +7,63 @@ permalink: /publications/
 author_profile: true
 ---
 
-* Towards Interpretable Embeddings: Aligning Representations with Semantic Aspects. Neurosymbolic AI Journal 2025.
-
-* Croissant: A Metadata Format for ML-Ready Datasets. Spotlight paper at NeurIPS 2024 (also Best Paper at DEEM, SIGMOD 2024). 
-
-* Towards deployment-centric multimodal AI beyond vision and language. CoRR abs/2504.03603, 2025.
-
-* Talking Wikidata: Communication Patterns and Their Impact on Community Engagement in Collaborative Knowledge Graphs. Transactions on Graph Data & Knowledge, 2025.
-
-* Agreeing and disagreeing in collaborative knowledge graph construction: An analysis of Wikidata. Journal of Web Semantics, 2025.
-
-* A Standardized Machine-readable Dataset Documentation Format for Responsible AI.  CoRR abs/2407.16883, 2024.
-
-
-
-
-* Mubashara Akhtar, Omar Benjelloun, Costanza Conforti, Pieter Gijsbers, Joan Giner-Miguelez, **Nitisha Jain** et al.: *Croissant: A Metadata Format for ML-Ready Datasets*. Proceedings of the Eighth Workshop on Data Management for End-to-End Machine Learning (DEEM), 2024. [[Paper](https://dl.acm.org/doi/abs/10.1145/3650203.3663326)] 
+* **Nitisha Jain**, Antoine Domingues, Adwait Baokar, Albert Meroño Peñuela, Elena Simperl : *Towards Interpretable Embeddings: Aligning Representations with Semantic Aspects*. Neurosymbolic AI Journal 2025. [[Paper](https://neurosymbolic-ai-journal.com/paper/towards-interpretable-embeddings-aligning-representations-semantic-aspects-0)]
 {: .text-justify}
 
-* Antoine Domingues, **Nitisha Jain**, Albert Meroño Peñuela, Elena Simperl: *Bringing Back Semantics to Knowledge Graph Embeddings : An Interpretability Approach*. Proceedings of the 18th International Conference on Neural-Symbolic Learning and Reasoning (NeSy), 2024. [[Paper](https://kclpure.kcl.ac.uk/ws/portalfiles/portal/273022079/NeSy_final.pdf)] 
+* **Nitisha Jain**, Chiara Di Bonaventura, Albert Meroño-Peñuela, Barbara McGillivray : *An Annotation Protocol for Diachronic Evaluation of Semantic Drift in Disability Sources*. Linguistic Annotation Workshop (LAW) 2025, Association for Computational Linguistics (ACL). [[Paper](/assets/papers/LAW_ACL2025_Semantic_Drift.pdf)] 
+
+* Mubashara Akhtar, Omar Benjelloun, Costanza Conforti, Luca Foschini, Joan Giner-Miguelez, Pieter Gijsbers, Sujata Goswami, **Nitisha Jain** et al. : *Croissant: A Metadata Format for ML-Ready Datasets*. Neural Information Processing Systems (NeurIPS) 2024. [[Paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/9547b09b722f2948ff3ddb5d86002bc0-Paper-Datasets_and_Benchmarks_Track.pdf)] (**Spotlight paper**)
 {: .text-justify}
 
-* Jacopo de Berardinis, Valentina Anita Carriero, **Nitisha Jain** et al.: *The Polifonia Ontology Network: Building a Semantic Backbone for Musical Heritage*. Proceedings of the 22nd International Semantic Web Conference (ISWC), 2023. [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-47243-5_17)] 
+* *Towards deployment-centric multimodal AI beyond vision and language*. arXiv preprint 2025 [arXiv:2504.03603](https://arxiv.org/pdf/2504.03603?)
 {: .text-justify}
 
-* Bohui Zhang, Ioannis Reklos, **Nitisha Jain**, Albert Meroño Peñuela, Elena Simperl: *Using Large Language Models for Knowledge Engineering (LLMKE): A Case Study on Wikidata*. Joint proceedings of the KBC-LM workshop and the LM-KBC challenge @ ISWC 2023. [[Paper](https://ceur-ws.org/Vol-3577/paper8.pdf)] 
+* Elisavet Koutsiana, Ioannis Reklos, Kholoud Saad Alghamdi, **Nitisha Jain**, Albert Meroño-Peñuela, Elena Simperl : *Talking Wikidata: Communication Patterns and Their Impact on Community Engagement in Collaborative Knowledge Graphs*. Transactions on Graph Data & Knowledge, 2025. [[Paper](https://arxiv.org/pdf/2407.18278)] 
 {: .text-justify}
 
-* **Nitisha Jain**, Ralf Krestel: *Discovering Fine-Grained Semantics in Knowledge Graph Relations*. Proceedings of the Thirty-First ACM International Conference on Information and Knowledge Management (CIKM), 2022. [[Paper](https://dl.acm.org/doi/10.1145/3511808.3557287)] 
+* Elisavet Koutsiana, Tushita Yadav, **Nitisha Jain**, Albert Merono Penuela, Elena Simperl : *Agreeing and disagreeing in collaborative knowledge graph construction: An analysis of Wikidata*. Journal of Web Semantics, 2025. [[Paper](https://kclpure.kcl.ac.uk/ws/portalfiles/portal/335524895/2306.11766v3.pdf)] 
+{: .text-justify}
+
+* **Nitisha Jain**, Mubashara Akhtar, Joan Giner-Miguelez, Rajat Shinde, Omar Benjelloun, Elena Simperl et al. : *A Standardized Machine-readable Dataset Documentation Format for Responsible AI*. arXiv preprint 2024 [arXiv:2407.16883](https://arxiv.org/pdf/2407.16883)
+{: .text-justify}
+
+
+* Mubashara Akhtar, Omar Benjelloun, Costanza Conforti, Pieter Gijsbers, Joan Giner-Miguelez, **Nitisha Jain** et al.: *Croissant: A Metadata Format for ML-Ready Datasets*. Data Management for End-to-End Machine Learning (DEEM), 2024. [[Paper](https://dl.acm.org/doi/abs/10.1145/3650203.3663326)] (**Best Paper Award**)
+{: .text-justify}
+
+* Antoine Domingues, **Nitisha Jain**, Albert Meroño Peñuela, Elena Simperl: *Bringing Back Semantics to Knowledge Graph Embeddings : An Interpretability Approach*. Neural-Symbolic Learning and Reasoning (NeSy), 2024. [[Paper](https://kclpure.kcl.ac.uk/ws/portalfiles/portal/273022079/NeSy_final.pdf)] 
+{: .text-justify}
+
+* Jacopo de Berardinis, Valentina Anita Carriero, **Nitisha Jain** et al.: *The Polifonia Ontology Network: Building a Semantic Backbone for Musical Heritage*. International Semantic Web Conference (ISWC), 2023. [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-47243-5_17)] 
+{: .text-justify}
+
+* Bohui Zhang, Ioannis Reklos, **Nitisha Jain**, Albert Meroño Peñuela, Elena Simperl: *Using Large Language Models for Knowledge Engineering (LLMKE): A Case Study on Wikidata*. KBC-LM workshop and the LM-KBC challenge @ ISWC 2023. [[Paper](https://ceur-ws.org/Vol-3577/paper8.pdf)] 
+{: .text-justify}
+
+* **Nitisha Jain**, Ralf Krestel: *Discovering Fine-Grained Semantics in Knowledge Graph Relations*. ACM International Conference on Information and Knowledge Management (CIKM), 2022. [[Paper](https://dl.acm.org/doi/10.1145/3511808.3557287)] 
 {: .text-justify}
 
 * **Nitisha Jain**, Alejandro Sierra, Jan Ehmueller, Ralf Krestel : *Generation of Training Data for Named Entity Recognition of Artworks*. Semantic Web Journal (SWJ) Volume 14, Number 2, 2023 - Special Issue on Cultural Heritage and Semantic Web. [[Paper](https://www.semantic-web-journal.net/system/files/swj3177.pdf)]
 
-* Maria Lomaeva, **Nitisha Jain**: *Relation Canonicalization in Open Knowledge Graphs - A Quantitative Analysis*. Proceedings of the Extended Semantic Web Conference (ESWC), 2022 (**Best Poster Nomination**). [[Poster](/assets/papers/ESWC2022_RPCanonicalisation.pdf)] 
+* Maria Lomaeva, **Nitisha Jain**: *Relation Canonicalization in Open Knowledge Graphs - A Quantitative Analysis*. Extended Semantic Web Conference (ESWC), 2022 (**Best Poster Nomination**). [[Poster](/assets/papers/ESWC2022_RPCanonicalisation.pdf)] 
 {: .text-justify}
 
-* **Nitisha Jain**, Trung-Kien Tran, Mohamed H. Gad-Elrab, Daria Stepanova: *Improving Knowledge Graph Embeddings with Ontological Reasoning*. Proceedings of the International Semantic Web Conference (ISWC), 2021. [[Paper](/assets/papers/Improving Knowledge Graph Embeddings with Ontological Reasoning.pdf)] [[Talk](/assets/papers/Jain-259.mp4)]
+* **Nitisha Jain**, Trung-Kien Tran, Mohamed H. Gad-Elrab, Daria Stepanova: *Improving Knowledge Graph Embeddings with Ontological Reasoning*. International Semantic Web Conference (ISWC), 2021. [[Paper](/assets/papers/Improving Knowledge Graph Embeddings with Ontological Reasoning.pdf)] [[Talk](/assets/papers/Jain-259.mp4)]
 {: .text-justify}
 
-* **Nitisha Jain**, Jan-Christoph Kalo, Wolf-Tilo Balke, Ralf Krestel: *Do Embeddings Actually Capture Knowledge Graph Semantics?*. Proceedings of the Extended Semantic Web Conference (ESWC), 2021. [[Paper](/assets/papers/Do Embeddings Actually Capture Knowledge Graph Semantics.pdf)]
+* **Nitisha Jain**, Jan-Christoph Kalo, Wolf-Tilo Balke, Ralf Krestel: *Do Embeddings Actually Capture Knowledge Graph Semantics?*. Extended Semantic Web Conference (ESWC), 2021. [[Paper](/assets/papers/Do Embeddings Actually Capture Knowledge Graph Semantics.pdf)]
 {: .text-justify}
 
-* **Nitisha Jain**, Ralf Krestel: *Learning Fine-Grained Semantics for Multi-Relational Data*. Proceedings of the International Semantic Web Conference, Posters and Demos (ISWC), 2020. [[Paper](/assets/papers/Learning Fine-Grained Semantics for Multi-Relational Data.pdf)] [[Poster](/assets/papers/ISWC_poster.pdf)]
+* **Nitisha Jain**, Ralf Krestel: *Learning Fine-Grained Semantics for Multi-Relational Data*. International Semantic Web Conference, Posters and Demos (ISWC), 2020. [[Paper](/assets/papers/Learning Fine-Grained Semantics for Multi-Relational Data.pdf)] [[Poster](/assets/papers/ISWC_poster.pdf)]
 {: .text-justify}
 
-* **Nitisha Jain**: *Domain-Specific Knowledge Graph Construction for Semantic Analysis*. Proceedings of the Extended Semantic Web Conference (ESWC), 2020. [[Paper](/assets/papers/Domain-Specific Knowledge Graph Construction for Semantic Analysis.pdf)] [[Poster](/assets/papers/264-Jain.pdf)]
+* **Nitisha Jain**: *Domain-Specific Knowledge Graph Construction for Semantic Analysis*. Extended Semantic Web Conference (ESWC), 2020. [[Paper](/assets/papers/Domain-Specific Knowledge Graph Construction for Semantic Analysis.pdf)] [[Poster](/assets/papers/264-Jain.pdf)]
 {: .text-justify}
 
-* Simon  Razniewski, **Nitisha Jain**, Paramita  Mirza, Gerhard  Weikum: *Coverage of Information Extraction from Sentences and Paragraphs*. Proceedings of the Conference on Empirical Methods in Natural Language Processing and the International Joint Conference on Natural Language Processing (EMNLP-IJCNLP), 2019. [[Paper](/assets/papers/Coverage of Information Extraction from Sentences and Paragraphs.pdf)]
+* Simon  Razniewski, **Nitisha Jain**, Paramita  Mirza, Gerhard  Weikum: *Coverage of Information Extraction from Sentences and Paragraphs*. Empirical Methods in Natural Language Processing and the International Joint Conference on Natural Language Processing (EMNLP-IJCNLP), 2019. [[Paper](/assets/papers/Coverage of Information Extraction from Sentences and Paragraphs.pdf)]
 {: .text-justify}
  
-* **Nitisha Jain**, Ralf Krestel: *Who is Mona L.? Identifying Mentions of Artworks in Historical Archives*. Proceedings of the International Conference on Theory and Practice of Digital Libraries (TPDL), 2019. [[Paper](/assets/papers/Who_is_Mona_L_Identifying_Mentions_of_Artworks_in_Historical_Archives.pdf)]
+* **Nitisha Jain**, Ralf Krestel: *Who is Mona L.? Identifying Mentions of Artworks in Historical Archives*. Theory and Practice of Digital Libraries (TPDL), 2019. [[Paper](/assets/papers/Who_is_Mona_L_Identifying_Mentions_of_Artworks_in_Historical_Archives.pdf)]
 {: .text-justify}
 
 

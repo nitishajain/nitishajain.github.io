@@ -45,7 +45,7 @@ defaults:
       author_profile: true
 
 author:
-  name: "Nitisha Jain"
+  name: "Dr. Nitisha Jain"
   avatar: "/assets/images/Profile_pic.jpg"
   # bio: "PhD Student" # Note: Markdown is allowed
   bio : ""

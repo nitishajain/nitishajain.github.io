@@ -8,7 +8,7 @@ author_profile: true
 permalink: /about/
 ---
  
-### I am a Postdoctoral candidate at King's College London working with [Dr Albert Meroño Peñuela](https://www.kcl.ac.uk/people/albert-merono-penuela-1) and [Professor Elena Simperl](https://www.kcl.ac.uk/people/elena-simperl) at the Department of Informatics. The focus of my research is multimodal representations with knowledge graphs and language models in the context of the EU Horizon project [MuseIT](https://www.muse-it.eu/). I am also actively working on responsible AI in [Croissant](https://mlcommons.org/working-groups/data/croissant/), an MLCommons initiative.
+### I am a Postdoctoral candidate at King's College London working with [Dr. Albert Meroño Peñuela](https://www.kcl.ac.uk/people/albert-merono-penuela-1) and [Professor Elena Simperl](https://www.kcl.ac.uk/people/elena-simperl) at the Department of Informatics. The focus of my research is multimodal representations with knowledge graphs and language models in the context of the EU Horizon project [MuseIT](https://www.muse-it.eu/). I am also actively working on responsible AI in [Croissant](https://mlcommons.org/working-groups/data/croissant/), an MLCommons initiative.
 
 
 <!---

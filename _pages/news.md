@@ -8,13 +8,23 @@ author_profile: true
 ---
 
 
+
+**2024**
+
+
+* (30/11) Attended the 10th [Meet-up](https://github.com/turing-knowledge-graphs/meet-ups/blob/main/agenda-10th-meetup.md) of The Turing Interest Group on Knowledge Graphs in at the Edinburgh Future Institute, University of Edinburgh and gave a [presentation] (/ssets/slides/KG_meetup_Edinburgh_InterpretE_NItisha.pdf) titled 'Towards Interpretable Embeddings: Aligning Representations with Semantic Aspects'.
+{: .text-justify}
+
+* (17/09) Excited to have been invited to present our work on the Croissant metadata standard and the Responsonsible AI vocabulary at the Sony AI Journal Club with a talk titled 'Croissant-RAI: Standardized Machine-readable Dataset Documentation Format for Responsible AI' (slides [here](/assets/slides/SonyAITalk_ResponsibleAI_with_Croissant.pdf)).
+{: .text-justify}
+
 * (26/05) The first edition of our workshop [GeNeSy](https://sites.google.com/view/genesy2024/)(Generative Neuro-Symbolic AI) was a great success at the ESWC 2024 conference. Many thanks to my co-organizers Jacopo, Jongmo and Filip for the fantastic collaboration as well as to all the authors, speakers, and attendees in Greece for making it unforgettable.
 {: .text-justify}
 
 * (18/06) Attending the Knowledge Graphs and Ontologies for Intelligence, Defence and Security Symposium at at Cheltenham Racecourse, UK and presenting [poster](/assets/papers/Dstl_Nitisha_Jain_Poster.pdf) titled *Towards a Standardised Data Documentation Format for Cultural Heritage Collections*. 
 {: .text-justify}
 
-* (15/06) Our short paper *Bringing Back Semantics to Knowledge Graph Embeddings : An Interpretability Approach* has been accepted for the Neural-Symbolic Learning and Reasoning ([NeSy](https://sites.google.com/view/nesy2024)) conference! The work was led by our intern Antoine Dominques. 
+* (15/06) Our short [paper](/assets/papers/Poster_NeSy.pdf) *Bringing Back Semantics to Knowledge Graph Embeddings : An Interpretability Approach* has been accepted for the Neural-Symbolic Learning and Reasoning ([NeSy](https://sites.google.com/view/nesy2024)) conference! The work was led by our intern Antoine Dominques. 
 {: .text-justify}
 
 * (14/06) Blog post summarizing our work on the Measurement of Semantic Drift in Discourse on Disabilities in the context of the MuseIT project [available now](https://www.muse-it.eu/post/preserving-the-past-embracing-the-future-how-museit-is-revolutionizing-cultural-heritage-with-tech).
@@ -23,7 +33,6 @@ author_profile: true
 * (10/06) Presenting a [poster](/assets/papers/KCL_showcase_Croissant_poster_updated.pdf) titled *Croissant: Fostering Responsible AI with a Standardized Data Documentation Format* at the [2024 Informatics Research showcase](https://www.eventbrite.co.uk/e/informatics-research-showcase-2024-discover-how-to-innovate-with-us-tickets-873282991937?aff=oddtdtcreator) at the Great Hall in King's College London. 
 {: .text-justify}
 
-
 * (21/04) Our paper on the Croissant metadata standard has been accepted for presentation at the [DEEM](https://deem-workshop.github.io/) workshop co-located with SIGMOD 2024, preprint available [here](https://arxiv.org/abs/2403.19546). 
 {: .text-justify}
 
@@ -31,6 +40,7 @@ author_profile: true
 {: .text-justify}
 
 * (06/03) Happy to announce the [official launch](https://research.google/blog/croissant-a-metadata-format-for-ml-ready-datasets/) of Croissant, a new metadata format for ML-ready datasets alongwith the [first version](https://docs.mlcommons.org/croissant/docs/croissant-rai-spec.html) of the Responsible AI (RAI) vocabulary. 
+{: .text-justify}
 
 
 **2023**
@@ -38,8 +48,11 @@ author_profile: true
 * (01/12) I will be in New Orleans attending the premier AI conference [NeurIPS 2023](https://neurips.cc/Conferences/2023) from 10-16 December, looking forward to an enriching and exciting week of state-of-the-art research showcases, meetings and presenting our ongoing work on [Croissant](https://github.com/mlcommons/croissant) metadata standard at the Google booth!
 {: .text-justify}
 
-* Attending the [First Multimodal AI Research Sprint](https://multimodalai.github.io/multimodalai-sprint23/) at the Alan Turing Institute in London on 22 November and presenting our pitch on Semantic Interpretations of Multimodal Embeddings towards Explainable AI.
+* (23/11) It was a great pleasure and honour to have been invited for an in-person talk at [OxfordXML](https://oxfordxml.github.io/) series and visit the Wolfson College and the beautiful city of Oxford. My [talk](/assets/slides/OxfordXML_talk.pdf) titled 'Role of Entity Attributes for Completion of Multi-modal Knowledge Graph' sparked many interesting conversations and inspiring ideas. 
+{: .text-justify}
 
+* Attending the [First Multimodal AI Research Sprint](https://multimodalai.github.io/multimodalai-sprint23/) at the Alan Turing Institute in London on 22 November and presenting our [pitch](/assets/papers/NitishaJain_MultimodalAI23_pitch.pdf) on Semantic Interpretations of Multimodal Embeddings towards Explainable AI.
+{: .text-justify}
 
 * (04/11) I am excited to join the OC of the Extended Semantic Web Conference (ESWC) 2024 as the [Sponsorship Co-Chair](https://2024.eswc-conferences.org/organising-committee/), alongside Jan-Christoph Kalo! Many thanks to the General Chair Albert for the wonderful opportunity and looking forward to the experience. 
 {: .text-justify}

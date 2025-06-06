@@ -7,6 +7,13 @@
 
 //https://github.com/Rainymood/rainymood.github.io/blob/master/assets/css/main.scss
 
+/* paragraph indention */
+$paragraph-indent           : false; // true, false (default)
+$indent-var                 : 1.3em;
+
+$max-width: calc(100vw - 200px);
+
+
 /* type scale */
 $type-size-1: 2.441em !default;
 $type-size-2: 1.953em !default;
@@ -35,17 +42,17 @@ $h-size-6: 1em !default;
 
 
 html {
-  font-size: 14px; // change to whatever
+  font-size: 12px; // change to whatever
 
   @include breakpoint($medium) {
-    font-size: 14px; // change to whatever
+    font-size: 13px; // change to whatever
   }
 
   @include breakpoint($large) {
-    font-size: 15px; // change to whatever
+    font-size: 14px; // change to whatever
   }
 
   @include breakpoint($x-large) {
-    font-size: 16px; // change to whatever, default 22
+    font-size: 15px; // change to whatever, default 22
   }
 }

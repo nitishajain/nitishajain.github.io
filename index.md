@@ -20,21 +20,22 @@ permalink: /
 
 I am a [Postdoctoral Researcher](https://www.kcl.ac.uk/people/nitisha-jain) at King's College London working with [Dr Albert Meroño Peñuela](https://www.kcl.ac.uk/people/albert-merono-penuela-1) and [Professor Elena Simperl](https://www.kcl.ac.uk/people/elena-simperl) at the Department of Informatics. With a PhD in Knowledge Graphs, my current research focuses on multimodal content generation and generative models grounded in structured knowledge. I am also developing neuro-symbolic methods for interpretable AI and actively contributing to the responsible AI features in standards like [MLCommons Croissant](https://mlcommons.org/working-groups/data/croissant/).
 
-#My research is focused on Responsible AI and Explainable AI with neuro-symbolic methods. I also work on multimodal representations with knowledge graphs and large language models. 
-
+<!--- 
+My research is focused on Responsible AI and Explainable AI with neuro-symbolic methods. I also work on multimodal representations with knowledge graphs and large language models. 
+ --->
 
 
 ## [Recent News](/news/)
 
 
-* (May 2025) Our [paper](https://kclpure.kcl.ac.uk/admin/files/337589716/LAW_ACL2025_Semantic_Drift.pdf) *An Annotation Protocol for Diachronic Evaluation of Semantic Drift in Disability Sources* has been accepted at the Linguistic Annotation Workshop (LAW) 2025 which will be co-located with ACL 2025 in Vienna this year.
+* (May 2025) Our [paper](https://kclpure.kcl.ac.uk/admin/files/337589716/LAW_ACL2025_Semantic_Drift.pdf) on *An Annotation Protocol for Diachronic Evaluation of Semantic Drift in Disability Sources* has been accepted at the Linguistic Annotation Workshop (LAW) 2025, which will be co-located with ACL 2025 in Vienna this year.
 {: .text-justify}
 
-* (Mar 2025) Our research manuscript proposing a nerosymbolic approach for generating interpretable embeddings has been accepted for publication in the Neurosymbolic AI Journal! (preprint [here](https://neurosymbolic-ai-journal.com/paper/towards-interpretable-embeddings-aligning-representations-semantic-aspects-0)).  
+* (Mar 2025) Our research manuscript proposing a neurosymbolic approach for generating interpretable embeddings has been accepted for publication in the Neurosymbolic AI Journal! (preprint [here](https://neurosymbolic-ai-journal.com/paper/towards-interpretable-embeddings-aligning-representations-semantic-aspects-0)).  
 {: .text-justify}
 
 
-* (Dec 2024) Our paper on the [Croissant](https://proceedings.neurips.cc/paper_files/paper/2024/file/9547b09b722f2948ff3ddb5d86002bc0-Paper-Datasets_and_Benchmarks_Track.pdf)) metadata standard will be presented as a *spotlight paper* at NeurIPS 2024 (top ~3% of submissions).
+* (Dec 2024) Excited to share our [paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/9547b09b722f2948ff3ddb5d86002bc0-Paper-Datasets_and_Benchmarks_Track.pdf) on the Croissant metadata standard will be presented as a **spotlight paper** at NeurIPS 2024 (top ~3% of submissions).
 {: .text-justify}
 
 * (Nov 2024) Attended the 10th [Meet-up](https://github.com/turing-knowledge-graphs/meet-ups/blob/main/agenda-10th-meetup.md) of The Turing Interest Group on Knowledge Graphs in at the Edinburgh Future Institute, University of Edinburgh and gave a [presentation](/assets/slides/KG_meetup_Edinburgh_InterpretE_NItisha.pdf) titled 'Towards Interpretable Embeddings: Aligning Representations with Semantic Aspects'.

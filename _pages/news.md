@@ -8,16 +8,19 @@ author_profile: true
 ---
 
 
-* (May 2025) Our [paper](https://kclpure.kcl.ac.uk/admin/files/337589716/LAW_ACL2025_Semantic_Drift.pdf) *An Annotation Protocol for Diachronic Evaluation of Semantic Drift in Disability Sources* has been accepted at the Linguistic Annotation Workshop (LAW) 2025 which will be co-located with ACL 2025 in Vienna this year.
 
-* (Mar 2025) Our research manuscript proposing a nerosymbolic approach for generating interpretable embeddings has been accepted for publication in the Neurosymbolic AI Journal! (preprint [here](https://neurosymbolic-ai-journal.com/paper/towards-interpretable-embeddings-aligning-representations-semantic-aspects-0)).  
+* (May 2025) Our [paper](https://kclpure.kcl.ac.uk/admin/files/337589716/LAW_ACL2025_Semantic_Drift.pdf) on *An Annotation Protocol for Diachronic Evaluation of Semantic Drift in Disability Sources* has been accepted at the Linguistic Annotation Workshop (LAW) 2025, which will be co-located with ACL 2025 in Vienna this year.
 {: .text-justify}
+
+* (Mar 2025) Our research manuscript proposing a neurosymbolic approach for generating interpretable embeddings has been accepted for publication in the Neurosymbolic AI Journal! (preprint [here](https://neurosymbolic-ai-journal.com/paper/towards-interpretable-embeddings-aligning-representations-semantic-aspects-0)).  
+{: .text-justify}
+
 
 
 
 **2024**
 
-* (02/12) Excited to share our paper on the [Croissant](https://proceedings.neurips.cc/paper_files/paper/2024/file/9547b09b722f2948ff3ddb5d86002bc0-Paper-Datasets_and_Benchmarks_Track.pdf)) metadata standard that will be presented as a *spotlight paper* at NeurIPS 2024 (top ~3% of submissions).
+* (02/12) Excited to share our [paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/9547b09b722f2948ff3ddb5d86002bc0-Paper-Datasets_and_Benchmarks_Track.pdf) on the Croissant metadata standard will be presented as a **spotlight paper** at NeurIPS 2024 (top ~3% of submissions).
 {: .text-justify}
 
 

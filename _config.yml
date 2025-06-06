@@ -43,6 +43,8 @@ defaults:
       type: posts
     values:
       author_profile: true
+      layout: single
+      css: "main" # points to /assets/css/main.scss
 
 author:
   name: "Dr. Nitisha Jain"

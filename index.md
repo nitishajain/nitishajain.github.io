@@ -102,9 +102,7 @@ I am a [Postdoctoral candidate](https://www.kcl.ac.uk/people/nitisha-jain) at Ki
 * Mubashara Akhtar, Omar Benjelloun, Costanza Conforti, Pieter Gijsbers, Joan Giner-Miguelez, **Nitisha Jain** et al.: *Croissant: A Metadata Format for ML-Ready Datasets*. Proceedings of the Eighth Workshop on Data Management for End-to-End Machine Learning (DEEM), 2024. [[Paper](https://dl.acm.org/doi/abs/10.1145/3650203.3663326)] 
 {: .text-justify}
 
-* Antoine Domingues, **Nitisha Jain**, Albert Meroño Peñuela, Elena Simperl: *Bringing Back Semantics to Knowledge Graph
-Embeddings : An Interpretability Approach*. Proceedings of the 18th International Conference on Neural-Symbolic
-Learning and Reasoning (NeSy), 2024. [[Paper](https://kclpure.kcl.ac.uk/ws/portalfiles/portal/273022079/NeSy_final.pdf)] 
+* Antoine Domingues, **Nitisha Jain**, Albert Meroño Peñuela, Elena Simperl: *Bringing Back Semantics to Knowledge Graph Embeddings : An Interpretability Approach*. Proceedings of the 18th International Conference on Neural-Symbolic Learning and Reasoning (NeSy), 2024. [[Paper](https://kclpure.kcl.ac.uk/ws/portalfiles/portal/273022079/NeSy_final.pdf)] 
 {: .text-justify}
 
 * Jacopo de Berardinis, Valentina Anita Carriero, **Nitisha Jain** et al.: *The Polifonia Ontology Network: Building a Semantic Backbone for Musical Heritage*. Proceedings of the 22nd International Semantic Web Conference (ISWC), 2023. [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-47243-5_17)] 
@@ -118,7 +116,7 @@ Learning and Reasoning (NeSy), 2024. [[Paper](https://kclpure.kcl.ac.uk/ws/porta
 
 * [All Publications](/publications/)
 
-<!---
+
 
 * Nitisha Jain, Christian Bartz, Tobias Bredow, Emanuel Metzenthin, Jona Otholt, Ralf Krestel: *Semantic Analysis of Cultural Heritage Data: Aligning Paintings and Descriptions in Art-Historic Collections*. Proceedings of the International Workshop on Fine Art Pattern Extraction and Recognition (FAPER@ICPR), 2020. [[Paper](/assets/papers/CRC_Semantic Analysis of Cultural Heritage Data- Aligning Paintings and Descriptions in Art-Historic Collections.pdf)]
 {: .text-justify}

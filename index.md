@@ -18,86 +18,59 @@ permalink: /
 
 {: .text-justify}
 
-I am a [Postdoctoral candidate](https://www.kcl.ac.uk/people/nitisha-jain) at King's College London working with [Dr Albert Meroño Peñuela](https://www.kcl.ac.uk/people/albert-merono-penuela-1) and [Professor Elena Simperl](https://www.kcl.ac.uk/people/elena-simperl) at the Department of Informatics. My research is focussed on Responsible AI and Explainable AI with neuro-symbolic methods. I also work on multimodal representations with knowledge graphs and large language models. 
+I am a [Postdoctoral Researcher](https://www.kcl.ac.uk/people/nitisha-jain) at King's College London working with [Dr Albert Meroño Peñuela](https://www.kcl.ac.uk/people/albert-merono-penuela-1) and [Professor Elena Simperl](https://www.kcl.ac.uk/people/elena-simperl) at the Department of Informatics. With a PhD in Knowledge Graphs, my current research focuses on multimodal content generation and generative models grounded in structured knowledge. I am also developing neuro-symbolic methods for interpretable AI and actively contributing to the responsible AI features in standards like [MLCommons Croissant](https://mlcommons.org/working-groups/data/croissant/).
+
+#My research is focused on Responsible AI and Explainable AI with neuro-symbolic methods. I also work on multimodal representations with knowledge graphs and large language models. 
 
 
 
 ## [Recent News](/news/)
 
 
-
-
-
-**2024**
-
-
-* (30/11) Attended the 10th [Meet-up](https://github.com/turing-knowledge-graphs/meet-ups/blob/main/agenda-10th-meetup.md) of The Turing Interest Group on Knowledge Graphs in at the Edinburgh Future Institute, University of Edinburgh and gave a [presentation](/assets/slides/KG_meetup_Edinburgh_InterpretE_NItisha.pdf) titled 'Towards Interpretable Embeddings: Aligning Representations with Semantic Aspects'.
+* (May 2025) Our [paper](https://kclpure.kcl.ac.uk/admin/files/337589716/LAW_ACL2025_Semantic_Drift.pdf) *An Annotation Protocol for Diachronic Evaluation of Semantic Drift in Disability Sources* has been accepted at the Linguistic Annotation Workshop (LAW) 2025 which will be co-located with ACL 2025 in Vienna this year.
 {: .text-justify}
 
-* (17/09) Excited to have been invited to present our work on the Croissant metadata standard and the Responsonsible AI vocabulary at the Sony AI Journal Club with a talk titled 'Croissant-RAI: Standardized Machine-readable Dataset Documentation Format for Responsible AI' (slides [here](/assets/slides/SonyAITalk_ResponsibleAI_with_Croissant.pdf)).
-{: .text-justify}
-
-* (26/05) The first edition of our workshop [GeNeSy](https://sites.google.com/view/genesy2024/)(Generative Neuro-Symbolic AI) was a great success at the ESWC 2024 conference. Many thanks to my co-organizers Jacopo, Jongmo and Filip for the fantastic collaboration as well as to all the authors, speakers, and attendees in Greece for making it unforgettable.
-{: .text-justify}
-
-* (18/06) Attending the Knowledge Graphs and Ontologies for Intelligence, Defence and Security Symposium at at Cheltenham Racecourse, UK and presenting [poster](/assets/papers/Dstl_Nitisha_Jain_Poster.pdf) titled *Towards a Standardised Data Documentation Format for Cultural Heritage Collections*. 
-{: .text-justify}
-
-* (15/06) Our short [paper](/assets/papers/Poster_NeSy.pdf) *Bringing Back Semantics to Knowledge Graph Embeddings : An Interpretability Approach* has been accepted for the Neural-Symbolic Learning and Reasoning ([NeSy](https://sites.google.com/view/nesy2024)) conference! The work was led by our intern Antoine Dominques. 
-{: .text-justify}
-
-* (14/06) Blog post summarizing our work on the Measurement of Semantic Drift in Discourse on Disabilities in the context of the MuseIT project [available now](https://www.muse-it.eu/post/preserving-the-past-embracing-the-future-how-museit-is-revolutionizing-cultural-heritage-with-tech).
-{: .text-justify}
-
-* (10/06) Presenting a [poster](/assets/papers/KCL_showcase_Croissant_poster_updated.pdf) titled *Croissant: Fostering Responsible AI with a Standardized Data Documentation Format* at the [2024 Informatics Research showcase](https://www.eventbrite.co.uk/e/informatics-research-showcase-2024-discover-how-to-innovate-with-us-tickets-873282991937?aff=oddtdtcreator) at the Great Hall in King's College London. 
-{: .text-justify}
-
-* (21/04) Our paper on the Croissant metadata standard has been accepted for presentation at the [DEEM](https://deem-workshop.github.io/) workshop co-located with SIGMOD 2024, preprint available [here](https://arxiv.org/abs/2403.19546). 
-{: .text-justify}
-
-* (27/04) Attended the [4th MuseIT Consortium Meeting](https://www.muse-it.eu/post/4th-museit-consortium-meeting-in-scotland) from 24 to 26 April being held at the St Cecilia's Hall in Edinburgh and Traquair House near Innerleithen, one of the oldest Scottish castles! 
-{: .text-justify}
-
-* (06/03) Happy to announce the [official launch](https://research.google/blog/croissant-a-metadata-format-for-ml-ready-datasets/) of Croissant, a new metadata format for ML-ready datasets alongwith the [first version](https://docs.mlcommons.org/croissant/docs/croissant-rai-spec.html) of the Responsible AI (RAI) vocabulary. 
+* (Mar 2025) Our research manuscript proposing a nerosymbolic approach for generating interpretable embeddings has been accepted for publication in the Neurosymbolic AI Journal! (preprint [here](https://neurosymbolic-ai-journal.com/paper/towards-interpretable-embeddings-aligning-representations-semantic-aspects-0)).  
 {: .text-justify}
 
 
-**2023**
-
-* (01/12) I will be in New Orleans attending the premier AI conference [NeurIPS 2023](https://neurips.cc/Conferences/2023) from 10-16 December, looking forward to an enriching and exciting week of state-of-the-art research showcases, meetings and presenting our ongoing work on [Croissant](https://github.com/mlcommons/croissant) metadata standard at the Google booth!
+* (Dec 2024) Our paper on the [Croissant](https://proceedings.neurips.cc/paper_files/paper/2024/file/9547b09b722f2948ff3ddb5d86002bc0-Paper-Datasets_and_Benchmarks_Track.pdf)) metadata standard will be presented as a *spotlight paper* at NeurIPS 2024 (top ~3% of submissions).
 {: .text-justify}
 
-* Attending the [First Multimodal AI Research Sprint](https://multimodalai.github.io/multimodalai-sprint23/) at the Alan Turing Institute in London on 22 November and presenting our pitch on Semantic Interpretations of Multimodal Embeddings towards Explainable AI.
-
-
-* (04/11) I am excited to join the OC of the Extended Semantic Web Conference (ESWC) 2024 as the [Sponsorship Co-Chair](https://2024.eswc-conferences.org/organising-committee/), alongside Jan-Christoph Kalo! Many thanks to the General Chair Albert for the wonderful opportunity and looking forward to the experience. 
+* (Nov 2024) Attended the 10th [Meet-up](https://github.com/turing-knowledge-graphs/meet-ups/blob/main/agenda-10th-meetup.md) of The Turing Interest Group on Knowledge Graphs in at the Edinburgh Future Institute, University of Edinburgh and gave a [presentation](/assets/slides/KG_meetup_Edinburgh_InterpretE_NItisha.pdf) titled 'Towards Interpretable Embeddings: Aligning Representations with Semantic Aspects'.
 {: .text-justify}
 
-* (4/11) Attending the International Semantic Web Conference (ISWC) 2023 being held from November 6-10 in Athens, Greece. Excited to be finally attending ISWC in person, and to present our resource paper on [Polifonia Ontology Network](https://iswc2023.semanticweb.org/accepted-papers/) in the main conference as well as the winning entry for the [LM-KBC Challenge](https://lm-kbc.github.io/challenge2023/) this year! 
+* (Sept 2024) Excited to have been invited to present our work on the Croissant metadata standard and the Responsonsible AI vocabulary at the Sony AI Journal Club with a talk titled 'Croissant-RAI: Standardized Machine-readable Dataset Documentation Format for Responsible AI' (slides [here](/assets/slides/SonyAITalk_ResponsibleAI_with_Croissant.pdf)).
 {: .text-justify}
 
-* (22/10) The [MuseIT Consortium Meeting](https://www.muse-it.eu/post/a-learning-workshop-on-how-to-achieve-accessibility-and-inclusion-while-preparing-for-project-events) was organized by Catalink from 18 to 20 October in Nicosia, Cyprus. It was wonderful meeting the project colleagues in person and sharing our ongoing research tasks.
-{: .text-justify}
 
-* (13/10) **Today I have successfully [defended my PhD Thesis](https://www.linkedin.com/posts/nitisha-jain_art-activity-7123241991886270464-uUOx?utm_source=share&utm_medium=member_desktop) titled "Representation and Curation of Knowledge Graphs with Embeddings" at the Hasso Plattner Institute! After months of delay, happy to be finally finishing this chapter of my life :-)**
-{: .text-justify}
-
-* (01/08) Participating in the Knowledge Prompting Hackathon(https://king-s-knowledge-graph-lab.github.io/knowledge-prompting-hackathon/), a 5-day sprint style research activity being organized by our group from August 07 - 10 at King's College London. Looking forward to mentoring students on the topic of LLMs for multi-modal knowledge acquisition and inferencing.
-
-* (25/06) I will be participating in the [First Workshop on Multimodal AI](https://multimodalai.github.io/multimodalai23/) in Sheffield on 27th June and presenting a pitch and poster on [Semantic Interpretations of Multimodal Embeddings towards Explainable AI]().
-{: .text-justify} 
-
-* Attending the 2nd Annual [Symposium](https://github.com/turing-knowledge-graphs/meet-ups/blob/main/symposium-2023.md) of The Turing Interest Group on Knowledge Graphs at City, University of London on June 16th.
-
-
-* (01/02/2023) **I have joined as a Postdoc candidate at the Informatics Department of King's College London!**
-{: .text-justify}
 
 * [All Updates](/news/)
 
 
 
-## [Recent Publications and Talks](/publications/)
+## [Recent Publications](/publications/)
+
+* **Nitisha Jain**, Antoine Domingues, Adwait Baokar, Albert Meroño Peñuela, Elena Simperl : *Towards Interpretable Embeddings: Aligning Representations with Semantic Aspects*. Neurosymbolic AI Journal 2025. [[Paper](https://neurosymbolic-ai-journal.com/paper/towards-interpretable-embeddings-aligning-representations-semantic-aspects-0)]
+{: .text-justify}
+
+* **Nitisha Jain**, Chiara Di Bonaventura, Albert Meroño-Peñuela, Barbara McGillivray : *An Annotation Protocol for Diachronic Evaluation of Semantic Drift in Disability Sources*. Linguistic Annotation Workshop (LAW) 2025, Association for Computational Linguistics (ACL). [[Paper](/assets/papers/LAW_ACL2025_Semantic_Drift.pdf)] 
+{: .text-justify}
+
+* Mubashara Akhtar, Omar Benjelloun, Costanza Conforti, Luca Foschini, Joan Giner-Miguelez, Pieter Gijsbers, Sujata Goswami, **Nitisha Jain** et al. : *Croissant: A Metadata Format for ML-Ready Datasets*. Neural Information Processing Systems (NeurIPS) 2024. [[Paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/9547b09b722f2948ff3ddb5d86002bc0-Paper-Datasets_and_Benchmarks_Track.pdf)] (**Spotlight paper**)
+{: .text-justify}
+
+* *Towards deployment-centric multimodal AI beyond vision and language*. arXiv preprint 2025 [arXiv:2504.03603](https://arxiv.org/pdf/2504.03603?)
+{: .text-justify}
+
+* Elisavet Koutsiana, Ioannis Reklos, Kholoud Saad Alghamdi, **Nitisha Jain**, Albert Meroño-Peñuela, Elena Simperl : *Talking Wikidata: Communication Patterns and Their Impact on Community Engagement in Collaborative Knowledge Graphs*. Transactions on Graph Data & Knowledge, 2025. [[Paper](https://arxiv.org/pdf/2407.18278)] 
+{: .text-justify}
+
+* Elisavet Koutsiana, Tushita Yadav, **Nitisha Jain**, Albert Merono Penuela, Elena Simperl : *Agreeing and disagreeing in collaborative knowledge graph construction: An analysis of Wikidata*. Journal of Web Semantics, 2025. [[Paper](https://kclpure.kcl.ac.uk/ws/portalfiles/portal/335524895/2306.11766v3.pdf)] 
+{: .text-justify}
+
+* **Nitisha Jain**, Mubashara Akhtar, Joan Giner-Miguelez, Rajat Shinde, Omar Benjelloun, Elena Simperl et al. : *A Standardized Machine-readable Dataset Documentation Format for Responsible AI*. arXiv preprint 2024 [arXiv:2407.16883](https://arxiv.org/pdf/2407.16883)
+{: .text-justify}
 
 * Mubashara Akhtar, Omar Benjelloun, Costanza Conforti, Pieter Gijsbers, Joan Giner-Miguelez, **Nitisha Jain** et al.: *Croissant: A Metadata Format for ML-Ready Datasets*. Proceedings of the Eighth Workshop on Data Management for End-to-End Machine Learning (DEEM), 2024. [[Paper](https://dl.acm.org/doi/abs/10.1145/3650203.3663326)] 
 {: .text-justify}
@@ -118,29 +91,6 @@ I am a [Postdoctoral candidate](https://www.kcl.ac.uk/people/nitisha-jain) at Ki
 
 
 
-* Nitisha Jain, Christian Bartz, Tobias Bredow, Emanuel Metzenthin, Jona Otholt, Ralf Krestel: *Semantic Analysis of Cultural Heritage Data: Aligning Paintings and Descriptions in Art-Historic Collections*. Proceedings of the International Workshop on Fine Art Pattern Extraction and Recognition (FAPER@ICPR), 2020. [[Paper](/assets/papers/CRC_Semantic Analysis of Cultural Heritage Data- Aligning Paintings and Descriptions in Art-Historic Collections.pdf)]
-{: .text-justify}
-
-* Nitisha Jain, Ralf Krestel: *Learning Fine-Grained Semantics for Multi-Relational Data*. Proceedings of the International Semantic Web Conference, Posters and Demos (ISWC), 2020. [[Paper](/assets/papers/Learning Fine-Grained Semantics for Multi-Relational Data.pdf)] [[Poster](/assets/papers/ISWC_poster.pdf)]
-{: .text-justify}
-
-* Nitisha Jain: *Multimodal Knowledge Graphs for Semantic Analysis of Cultural Heritage Data*.  Invited Talk at the Workshop on Knowledge Bases and Multiple Modalities (KBMM@AKBC) 2020. [[Abstract](/assets/papers/MMKB2020_Nitisha_Jain.pdf)]
-{: .text-justify}
-
-* Nitisha Jain: *Domain-Specific Knowledge Graph Construction for Semantic Analysis*. Proceedings of the Extended Semantic Web Conference (ESWC), 2020. [[Paper](/assets/papers/Domain-Specific Knowledge Graph Construction for Semantic Analysis.pdf)] [[Poster](/assets/papers/264-Jain.pdf)]
-{: .text-justify}
-
-* Nitisha Jain, Christian Bartz, Ralf Krestel: *Automatic Matching of Paintings and Descriptions in Art-Historic Archives using Multimodal Analysis*. Proceedings of the International Workshop on Artificial Intelligence for Historical Image Enrichment and Access (AI4HI@LREC), 2020. [[Paper](assets/papers/4_Final_Paper.pdf)]
-{: .text-justify}
-
-* Simon Razniewski, Nitisha Jain, Paramita Mirza, Gerhard Weikum: *Coverage of Information Extraction from Sentences and Paragraphs*. Proceedings of the Conference on Empirical Methods in Natural Language Processing and the International Joint Conference on Natural Language Processing (EMNLP-IJCNLP), 2019. [[Paper](/assets/papers/Coverage of Information Extraction from Sentences and Paragraphs.pdf)]
-{: .text-justify}
- 
-* Nitisha Jain, Ralf Krestel: *Who is Mona L.? Identifying Mentions of Artworks in Historical Archives*. International Conference on Theory and Practice of Digital Libraries (TPDL), 2019. [[Paper](/assets/papers/Who_is_Mona_L_Identifying_Mentions_of_Artworks_in_Historical_Archives.pdf)]
-{: .text-justify}
-
-
-
 
 <!--- # [Projects](/projects) --->
 
@@ -154,7 +104,8 @@ I am a [Postdoctoral candidate](https://www.kcl.ac.uk/people/nitisha-jain) at Ki
 * Sponsorship Chair of the ESWC 2024 conference along with Jan-Christoph Kalo. 
 
 * Paper reviewing 
-	* 2024 : Semantics 
+	* 2025 : Semantic Web Journal, ISWC, Semantics, SemDH (ESWC)
+	* 2024 : Semantics, AI4DH (ESWC) 
 	* 2023 : TKDD, Semantic Web Journal
 	* 2022 : Semantic Web Journal, WebConference, ESWC, CIKM, LWDA, 
 	* Previously : EMNLP(2021) LWDA(2020), AAAI(2019).
@@ -171,6 +122,10 @@ I am a [Postdoctoral candidate](https://www.kcl.ac.uk/people/nitisha-jain) at Ki
 
 ### Teaching and Supervision
 
+* January 2025 - Teaching Assistant for Network Data Analysis (Masters lecture)
+{: .text-justify}
+* January 2025 - Teaching Assistant for Knowledge Engineering (Bachelors lecture)
+{: .text-justify}
 * January 2024 - Teaching Assistant for Network Data Analysis (Masters lecture)
 {: .text-justify}
 * Summer 2024 - Bringing Back Semantics to Knowledge Graph Embeddings : An Interpretability Approach (internship), Student : Antoine Domingues, MSc, ENSTA Paris

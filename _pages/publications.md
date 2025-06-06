@@ -10,7 +10,7 @@ author_profile: true
 * **Nitisha Jain**, Antoine Domingues, Adwait Baokar, Albert Meroño Peñuela, Elena Simperl : *Towards Interpretable Embeddings: Aligning Representations with Semantic Aspects*. Neurosymbolic AI Journal 2025. [[Paper](https://neurosymbolic-ai-journal.com/paper/towards-interpretable-embeddings-aligning-representations-semantic-aspects-0)]
 {: .text-justify}
 
-* **Nitisha Jain**, Chiara Di Bonaventura, Albert Meroño-Peñuela, Barbara McGillivray : *An Annotation Protocol for Diachronic Evaluation of Semantic Drift in Disability Sources*. Linguistic Annotation Workshop (LAW) 2025, Association for Computational Linguistics (ACL). [[Paper](/assets/papers/LAW_ACL2025_Semantic_Drift.pdf)] 
+* **Nitisha Jain**, Chiara Di Bonaventura, Albert Meroño-Peñuela, Barbara McGillivray : *An Annotation Protocol for Diachronic Evaluation of Semantic Drift in Disability Sources*. Linguistic Annotation Workshop (LAW) 2025, Association for Computational Linguistics (ACL). [[Paper](https://kclpure.kcl.ac.uk/admin/files/337589716/LAW_ACL2025_Semantic_Drift.pdf)] 
 
 * Mubashara Akhtar, Omar Benjelloun, Costanza Conforti, Luca Foschini, Joan Giner-Miguelez, Pieter Gijsbers, Sujata Goswami, **Nitisha Jain** et al. : *Croissant: A Metadata Format for ML-Ready Datasets*. Neural Information Processing Systems (NeurIPS) 2024. [[Paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/9547b09b722f2948ff3ddb5d86002bc0-Paper-Datasets_and_Benchmarks_Track.pdf)] (**Spotlight paper**)
 {: .text-justify}

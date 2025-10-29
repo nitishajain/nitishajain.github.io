@@ -18,8 +18,18 @@ permalink: /
 
 {: .text-justify}
 
-I am a [Postdoctoral Researcher](https://www.kcl.ac.uk/people/nitisha-jain) at King's College London working with [Dr Albert Meroño Peñuela](https://www.kcl.ac.uk/people/albert-merono-penuela-1) and [Professor Elena Simperl](https://www.kcl.ac.uk/people/elena-simperl) at the Department of Informatics. With a PhD in Knowledge Graphs, my current research focuses on multimodal content generation and generative models grounded in structured knowledge. I am also developing neuro-symbolic methods for interpretable AI and actively contributing to the responsible AI features in standards like [MLCommons Croissant](https://mlcommons.org/working-groups/data/croissant/).
 
+I am a [Postdoctoral Researcher](https://www.kcl.ac.uk/people/nitisha-jain) at King’s College London working with [Dr Albert Meroño Peñuela](https://www.kcl.ac.uk/people/albert-merono-penuela-1) and [Professor Elena Simperl](https://www.kcl.ac.uk/people/elena-simperl) in the Department of Informatics. With a PhD in Knowledge Graphs from the Hasso Plattner Institute, my research lies at the intersection of **generative AI, neuro-symbolic reasoning, and AI safety**.
+
+At KCL, I lead work on **multimodal representations grounded in structured knowledge** within the EU Horizon [**MuseIT**](https://www.muse-it.eu/) project - developing, fine-tuning and evaluating generative pipelines that span text, image, speech, 3D, and music modalities for cultural heritage applications.
+
+I also actively contribute to the [**MLCommons Croissant**](https://github.com/mlcommons/croissant) project - co-chairing efforts on **Responsible AI metadata and governance** for trustworthy dataset documentation. My broader interests span explainable and interpretable AI, dataset and model evaluation, and methods that bridge statistical and symbolic reasoning for safer AI systems.
+
+
+<!--- 
+I am a [Postdoctoral Researcher](https://www.kcl.ac.uk/people/nitisha-jain) at King's College London working with [Dr Albert Meroño Peñuela](https://www.kcl.ac.uk/people/albert-merono-penuela-1) and [Professor Elena Simperl](https://www.kcl.ac.uk/people/elena-simperl) at the Department of Informatics. With a PhD in Knowledge Graphs, my current research focuses on multimodal content generation and generative models grounded in structured knowledge. I am also developing neuro-symbolic methods for interpretable AI and actively contributing to the responsible AI features in standards like [MLCommons Croissant](https://mlcommons.org/working-groups/data/croissant/).
+ --->
+ 
 <!--- 
 My research is focused on Responsible AI and Explainable AI with neuro-symbolic methods. I also work on multimodal representations with knowledge graphs and large language models. 
  --->
@@ -27,23 +37,23 @@ My research is focused on Responsible AI and Explainable AI with neuro-symbolic 
 
 ## [Recent News](/news/) {#news}
 
-* (Sept 2025) Attended the [4th Annual Symposium of the Turing Interest Group on Knowledge Graphs](https://github.com/turing-knowledge-graphs/meet-ups/blob/main/symposium-2025.md), featuring insightful talks on neuro-symbolic agents, multimodal knowledge graphs and the UK’s Grand Challenges in defence, sustainability and health.
+* (Sept 2025) Attended the [4th Annual Symposium](https://github.com/turing-knowledge-graphs/meet-ups/blob/main/symposium-2025.md) of the Turing Interest Group on Knowledge Graphs, featuring insightful talks on neuro-symbolic agents, multimodal knowledge graphs and the UK’s Grand Challenges in defence, sustainability and health.
 {: .text-justify}
 
-* (Jun 2025) Honoured to participate in the **Responsible AI UK** workshop on [AI Regulation Assurance for Safety-Critical Systems](https://rai.ac.uk/events/ai-regulation-assurance-for-safety-critical-systems/) - a prestigious forum uniting experts across disciplines to shape real-world applications of responsible and trustworthy AI. Read my reflections in this [LinkedIn post](https://www.linkedin.com/posts/nitisha-jain_maritimeai-responsibleai-aiethics-activity-7340493399294140416-c_iZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAK-3BsBRnBrwcoZKbBcxM5mF7Dn0FxDo0o).
+* (Jun 2025) Honoured to participate in the **Responsible AI UK** [workshop](https://rai.ac.uk/events/ai-regulation-assurance-for-safety-critical-systems/) on AI Regulation Assurance for Safety-Critical Systems - a prestigious forum uniting experts across disciplines to shape real-world applications of responsible and trustworthy AI. More details and my reflections in this LinkedIn [post](https://www.linkedin.com/posts/nitisha-jain_maritimeai-responsibleai-aiethics-activity-7340493399294140416-c_iZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAK-3BsBRnBrwcoZKbBcxM5mF7Dn0FxDo0o).
 {: .text-justify}
 
 
-* (May 2025) Our [paper]([https://kclpure.kcl.ac.uk/admin/files/337589716/LAW_ACL2025_Semantic_Drift.pdf](https://aclanthology.org/anthology-files/pdf/law/2025.law-1.13.pdf)) on *An Annotation Protocol for Diachronic Evaluation of Semantic Drift in Disability Sources* has been accepted at the Linguistic Annotation Workshop (LAW) 2025, which will be co-located with ACL 2025 in Vienna this year.
+* (May 2025) Our [paper](https://aclanthology.org/anthology-files/pdf/law/2025.law-1.13.pdf) on *An Annotation Protocol for Diachronic Evaluation of Semantic Drift in Disability Sources* has been accepted at the Linguistic Annotation Workshop (LAW) 2025, which will be co-located with ACL 2025 in Vienna this year.
 {: .text-justify}
 
 * (Mar 2025) Our research manuscript proposing a neurosymbolic approach for generating interpretable embeddings has been accepted for publication in the Neurosymbolic AI Journal! (preprint [here](https://neurosymbolic-ai-journal.com/paper/towards-interpretable-embeddings-aligning-representations-semantic-aspects-0)).  
 {: .text-justify}
 
-* (Mar 2025) Thrilled to have attended [**AI UK 2025**](https://ai-uk.turing.ac.uk/), the flagship annual event of the Alan Turing Institute, bringing together leading researchers, innovators, and policymakers shaping the future of AI in the UK - shared my highlights and reflections in this [LinkedIn post](https://www.linkedin.com/posts/nitisha-jain_aiuk-alanturinginstitute-prolific-activity-7309194371994701824-bZQU?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAK-3BsBRnBrwcoZKbBcxM5mF7Dn0FxDo0o).
+* (Mar 2025) Thrilled to have attended [**AI UK 2025**](https://ai-uk.turing.ac.uk/), the flagship annual event of the Alan Turing Institute, bringing together leading researchers, innovators, and policymakers shaping the future of AI in the UK - shared my highlights and reflections in this LinkedIn [post](https://www.linkedin.com/posts/nitisha-jain_aiuk-alanturinginstitute-prolific-activity-7309194371994701824-bZQU?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAK-3BsBRnBrwcoZKbBcxM5mF7Dn0FxDo0o).
 {: .text-justify}
 
-* (Feb 2025) Excited to attend the event [AI Fringe 2025](https://aifringe.org/), organized alongside the **AI Safety Summit in Paris**, bringing together researchers, policymakers, and practitioners to explore the societal, ethical, and creative dimensions of AI.
+* (Feb 2025) Excited to attend the event [AI Fringe 2025](https://aifringe.org/), organized alongside the AI Safety Summit in Paris, bringing together researchers, policymakers, and practitioners to explore the societal, ethical, and creative dimensions of AI.
 {: .text-justify}
 
 * (Dec 2024) Excited to share our [paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/9547b09b722f2948ff3ddb5d86002bc0-Paper-Datasets_and_Benchmarks_Track.pdf) on the Croissant metadata standard will be presented as a **spotlight paper** at NeurIPS 2024 (top ~3% of submissions).

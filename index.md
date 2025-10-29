@@ -37,20 +37,23 @@ My research is focused on Responsible AI and Explainable AI with neuro-symbolic 
 
 ## [Recent News](/news/) {#news}
 
-* (Sept 2025) Attended the [4th Annual Symposium](https://github.com/turing-knowledge-graphs/meet-ups/blob/main/symposium-2025.md) of the Turing Interest Group on Knowledge Graphs, featuring insightful talks on neuro-symbolic agents, multimodal knowledge graphs and the UK’s Grand Challenges in defence, sustainability and health.
+* (Oct 2025) Delighted to share that our [perspective paper](https://www.nature.com/articles/s42256-025-01116-5) titled *Towards Deployment-Centric Multimodal AI Beyond Vision and Language* has finally been published in **Nature Machine Intelligence**, presenting a roadmap for real-world multimodal AI across domains like healthcare, sustainability, and engineering. Pleased to be part of this important collaboration led by the University of Sheffield and The Alan Turing Institute with collaborators from 22 institutions.
+{: .text-justify}
+
+* (Sept 2025) Attended the [4th Annual Symposium](https://github.com/turing-knowledge-graphs/meet-ups/blob/main/symposium-2025.md) of the *Turing Interest Group on Knowledge Graphs*, featuring insightful talks on neuro-symbolic agents, multimodal knowledge graphs and the UK’s Grand Challenges in defence, sustainability and health.
 {: .text-justify}
 
 * (Aug 2025) Participated in the [**Neuro-Symbolic AI Summer School 2025**](https://luma.com/pqzv80yd?tk=UBO1Lp) organized by Centaur AI, an intensive online program held on August 14–15 that brought together leading researchers to advance understanding of neuro-symbolic methods for reasoning, planning, and mathematical AI - gaining valuable insights into emerging approaches for hybrid intelligence ([certificate](/assets/papers/certificate_NeSy summer_school_Centaur.pdf)).
 {: .text-justify}
 
-* (Jun 2025) Honoured to participate in the **Responsible AI UK** [workshop](https://rai.ac.uk/events/ai-regulation-assurance-for-safety-critical-systems/) on AI Regulation Assurance for Safety-Critical Systems - a prestigious forum uniting experts across disciplines to shape real-world applications of responsible and trustworthy AI. More details and my reflections in this LinkedIn [post](https://www.linkedin.com/posts/nitisha-jain_maritimeai-responsibleai-aiethics-activity-7340493399294140416-c_iZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAK-3BsBRnBrwcoZKbBcxM5mF7Dn0FxDo0o).
+* (Jun 2025) Honoured to participate in the [**Responsible AI UK workshop**](https://rai.ac.uk/events/ai-regulation-assurance-for-safety-critical-systems/) on *AI Regulation Assurance for Safety-Critical Systems* - a prestigious forum uniting experts across disciplines to shape real-world applications of responsible and trustworthy AI. More details and my reflections in this LinkedIn [post](https://www.linkedin.com/posts/nitisha-jain_maritimeai-responsibleai-aiethics-activity-7340493399294140416-c_iZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAK-3BsBRnBrwcoZKbBcxM5mF7Dn0FxDo0o).
 {: .text-justify}
 
 
-* (May 2025) Our [paper](https://aclanthology.org/anthology-files/pdf/law/2025.law-1.13.pdf) on *An Annotation Protocol for Diachronic Evaluation of Semantic Drift in Disability Sources* has been accepted at the Linguistic Annotation Workshop (LAW) 2025, which will be co-located with ACL 2025 in Vienna this year.
+* (May 2025) Our [paper](https://aclanthology.org/anthology-files/pdf/law/2025.law-1.13.pdf) on *An Annotation Protocol for Diachronic Evaluation of Semantic Drift in Disability Sources* has been accepted at the Linguistic Annotation Workshop (LAW) 2025, which will be co-located with **ACL 2025** in Vienna this year.
 {: .text-justify}
 
-* (Mar 2025) Our research manuscript proposing a neurosymbolic approach for generating interpretable embeddings has been accepted for publication in the Neurosymbolic AI Journal! (preprint [here](https://neurosymbolic-ai-journal.com/paper/towards-interpretable-embeddings-aligning-representations-semantic-aspects-0)).  
+* (Mar 2025) Our research manuscript proposing a neurosymbolic approach for generating interpretable embeddings has been accepted for publication in the **Neurosymbolic AI Journal**! (preprint [here](https://neurosymbolic-ai-journal.com/paper/towards-interpretable-embeddings-aligning-representations-semantic-aspects-0)).  
 {: .text-justify}
 
 * (Mar 2025) Thrilled to have attended [**AI UK 2025**](https://ai-uk.turing.ac.uk/), the flagship annual event of the Alan Turing Institute, bringing together leading researchers, innovators, and policymakers shaping the future of AI in the UK - shared my highlights and reflections in this LinkedIn [post](https://www.linkedin.com/posts/nitisha-jain_aiuk-alanturinginstitute-prolific-activity-7309194371994701824-bZQU?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAK-3BsBRnBrwcoZKbBcxM5mF7Dn0FxDo0o).

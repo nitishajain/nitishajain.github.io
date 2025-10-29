@@ -52,7 +52,10 @@ My research is focused on Responsible AI and Explainable AI with neuro-symbolic 
 
 ## [Recent Publications](/publications/) {#publications}
 
-* **Nitisha Jain**, Antoine Domingues, Adwait Baokar, Albert Meroño Peñuela, Elena Simperl : *Towards Interpretable Embeddings: Aligning Representations with Semantic Aspects*. Neurosymbolic AI Journal 2025. [[Paper](https://neurosymbolic-ai-journal.com/paper/towards-interpretable-embeddings-aligning-representations-semantic-aspects-0)]
+* Liu, X., Zhang, J., Zhou, S. et al. : *Towards deployment-centric multimodal AI beyond vision and language*. Nature Machine Intelligence 2025. [[Paper](https://www.nature.com/articles/s42256-025-01116-5)] [[PDF](https://arxiv.org/abs/2504.03603)]
+{: .text-justify}
+
+* **Nitisha Jain**, Antoine Domingues, Adwait Baokar, Albert Meroño Peñuela, Elena Simperl : *Towards Interpretable Embeddings: Aligning Representations with Semantic Aspects*. Neurosymbolic AI Journal 2025. [[Paper](https://journals.sagepub.com/doi/10.1177/29498732251377351)]
 {: .text-justify}
 
 * **Nitisha Jain**, Chiara Di Bonaventura, Albert Meroño-Peñuela, Barbara McGillivray : *An Annotation Protocol for Diachronic Evaluation of Semantic Drift in Disability Sources*. Linguistic Annotation Workshop (LAW) 2025, Association for Computational Linguistics (ACL). [[Paper](/assets/papers/LAW_ACL2025_Semantic_Drift.pdf)] 
@@ -64,10 +67,10 @@ My research is focused on Responsible AI and Explainable AI with neuro-symbolic 
 * *Towards deployment-centric multimodal AI beyond vision and language*. arXiv preprint 2025 [arXiv:2504.03603](https://arxiv.org/pdf/2504.03603?)
 {: .text-justify}
 
-* Elisavet Koutsiana, Ioannis Reklos, Kholoud Saad Alghamdi, **Nitisha Jain**, Albert Meroño-Peñuela, Elena Simperl : *Talking Wikidata: Communication Patterns and Their Impact on Community Engagement in Collaborative Knowledge Graphs*. Transactions on Graph Data & Knowledge, 2025. [[Paper](https://arxiv.org/pdf/2407.18278)] 
+* Elisavet Koutsiana, Ioannis Reklos, Kholoud Saad Alghamdi, **Nitisha Jain**, Albert Meroño-Peñuela, Elena Simperl : *Talking Wikidata: Communication Patterns and Their Impact on Community Engagement in Collaborative Knowledge Graphs*. Transactions on Graph Data & Knowledge, 2025. [[Paper](https://drops.dagstuhl.de/entities/document/10.4230/TGDK.3.1.2)] 
 {: .text-justify}
 
-* Elisavet Koutsiana, Tushita Yadav, **Nitisha Jain**, Albert Merono Penuela, Elena Simperl : *Agreeing and disagreeing in collaborative knowledge graph construction: An analysis of Wikidata*. Journal of Web Semantics, 2025. [[Paper](https://kclpure.kcl.ac.uk/ws/portalfiles/portal/335524895/2306.11766v3.pdf)] 
+* Elisavet Koutsiana, Tushita Yadav, **Nitisha Jain**, Albert Merono Penuela, Elena Simperl : *Agreeing and disagreeing in collaborative knowledge graph construction: An analysis of Wikidata*. Journal of Web Semantics, 2025. [[Paper](https://www.sciencedirect.com/science/article/pii/S1570826825000095)] 
 {: .text-justify}
 
 * **Nitisha Jain**, Mubashara Akhtar, Joan Giner-Miguelez, Rajat Shinde, Omar Benjelloun, Elena Simperl et al. : *A Standardized Machine-readable Dataset Documentation Format for Responsible AI*. arXiv preprint 2024 [arXiv:2407.16883](https://arxiv.org/pdf/2407.16883)

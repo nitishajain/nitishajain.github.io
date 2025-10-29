@@ -50,7 +50,7 @@ My research is focused on Responsible AI and Explainable AI with neuro-symbolic 
 
 
 
-## [Recent Publications](/publications/)
+## [Recent Publications](/publications/) {#publications}
 
 * **Nitisha Jain**, Antoine Domingues, Adwait Baokar, Albert Meroño Peñuela, Elena Simperl : *Towards Interpretable Embeddings: Aligning Representations with Semantic Aspects*. Neurosymbolic AI Journal 2025. [[Paper](https://neurosymbolic-ai-journal.com/paper/towards-interpretable-embeddings-aligning-representations-semantic-aspects-0)]
 {: .text-justify}

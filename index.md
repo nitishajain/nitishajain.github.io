@@ -17,9 +17,11 @@ permalink: /
 ## [About Me](/about/) 
 
 {: .text-justify}
-I am a [Postdoctoral Researcher](https://www.kcl.ac.uk/people/nitisha-jain) at King’s College London working with [Dr Albert Meroño Peñuela](https://www.kcl.ac.uk/people/albert-merono-penuela-1) and [Professor Elena Simperl](https://www.kcl.ac.uk/people/elena-simperl) in the Department of Informatics. With a PhD in Knowledge Graphs from the Hasso Plattner Institute, my research lies at the intersection of *generative AI, neuro-symbolic reasoning, and AI safety*. 
+I am a [Postdoctoral Researcher](https://www.kcl.ac.uk/people/nitisha-jain) at King’s College London working with [Dr Albert Meroño Peñuela](https://www.kcl.ac.uk/people/albert-merono-penuela-1) and [Professor Elena Simperl](https://www.kcl.ac.uk/people/elena-simperl) in the Department of Informatics. With a PhD in Knowledge Graphs from the Hasso Plattner Institute, my research lies at the intersection of *generative AI, neuro-symbolic reasoning, and AI safety*.
+
 {: .text-justify}
 At KCL, I lead work on *multimodal representations grounded in structured knowledge* within the EU Horizon [**MuseIT**](https://www.muse-it.eu/) project - developing, fine-tuning and evaluating generative pipelines that span text, image, speech, 3D, and music modalities for cultural heritage applications. 
+
 {: .text-justify}
 I also actively contribute to the [**MLCommons Croissant**](https://github.com/mlcommons/croissant) project - co-chairing efforts on *Responsible AI metadata and governance* for trustworthy dataset documentation. My broader interests include evaluation and alignment of generative and agentic AI systems, interpretability, and building structured frameworks for transparent, human-centered AI. 
 
@@ -38,7 +40,7 @@ My research is focused on Responsible AI and Explainable AI with neuro-symbolic 
 * (Sept 2025) Attended the [4th Annual Symposium](https://github.com/turing-knowledge-graphs/meet-ups/blob/main/symposium-2025.md) of the Turing Interest Group on Knowledge Graphs, featuring insightful talks on neuro-symbolic agents, multimodal knowledge graphs and the UK’s Grand Challenges in defence, sustainability and health.
 {: .text-justify}
 
-* (Aug 2025) Participated in the [**Neuro-Symbolic AI Summer School 2025**](https://luma.com/pqzv80yd?tk=UBO1Lp) organized by Centaur AI, an intensive online program held on August 14–15 that brought together leading researchers to advance understanding of neuro-symbolic methods for reasoning, planning, and mathematical AI - gaining valuable insights into emerging approaches for hybrid intelligence [certificate](/assets/papers/certificate_NeSy summer_school_Centaur.pdf).
+* (Aug 2025) Participated in the [**Neuro-Symbolic AI Summer School 2025**](https://luma.com/pqzv80yd?tk=UBO1Lp) organized by Centaur AI, an intensive online program held on August 14–15 that brought together leading researchers to advance understanding of neuro-symbolic methods for reasoning, planning, and mathematical AI - gaining valuable insights into emerging approaches for hybrid intelligence ([certificate](/assets/papers/certificate_NeSy summer_school_Centaur.pdf)).
 {: .text-justify}
 
 * (Jun 2025) Honoured to participate in the **Responsible AI UK** [workshop](https://rai.ac.uk/events/ai-regulation-assurance-for-safety-critical-systems/) on AI Regulation Assurance for Safety-Critical Systems - a prestigious forum uniting experts across disciplines to shape real-world applications of responsible and trustworthy AI. More details and my reflections in this LinkedIn [post](https://www.linkedin.com/posts/nitisha-jain_maritimeai-responsibleai-aiethics-activity-7340493399294140416-c_iZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAK-3BsBRnBrwcoZKbBcxM5mF7Dn0FxDo0o).
@@ -59,13 +61,6 @@ My research is focused on Responsible AI and Explainable AI with neuro-symbolic 
 
 * (Dec 2024) Excited to share our [paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/9547b09b722f2948ff3ddb5d86002bc0-Paper-Datasets_and_Benchmarks_Track.pdf) on the Croissant metadata standard will be presented as a **spotlight paper** at NeurIPS 2024 (top ~3% of submissions).
 {: .text-justify}
-
-* (Nov 2024) Attended the 10th [Meet-up](https://github.com/turing-knowledge-graphs/meet-ups/blob/main/agenda-10th-meetup.md) of The Turing Interest Group on Knowledge Graphs in at the Edinburgh Future Institute, University of Edinburgh and gave a [presentation](/assets/slides/KG_meetup_Edinburgh_InterpretE_NItisha.pdf) titled 'Towards Interpretable Embeddings: Aligning Representations with Semantic Aspects'.
-{: .text-justify}
-
-* (Sept 2024) Excited to have been invited to present our work on the Croissant metadata standard and the Responsonsible AI vocabulary at the Sony AI Journal Club with a talk titled 'Croissant-RAI: Standardized Machine-readable Dataset Documentation Format for Responsible AI' (slides [here](/assets/slides/SonyAITalk_ResponsibleAI_with_Croissant.pdf)).
-{: .text-justify}
-
 
 
 * [All Updates](/news/)

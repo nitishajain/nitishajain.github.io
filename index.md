@@ -25,7 +25,7 @@ My research is focused on Responsible AI and Explainable AI with neuro-symbolic 
  --->
 
 
-## [Recent News](/news/)
+## [Recent News](/news/) {#news}
 
 
 * (May 2025) Our [paper](https://kclpure.kcl.ac.uk/admin/files/337589716/LAW_ACL2025_Semantic_Drift.pdf) on *An Annotation Protocol for Diachronic Evaluation of Semantic Drift in Disability Sources* has been accepted at the Linguistic Annotation Workshop (LAW) 2025, which will be co-located with ACL 2025 in Vienna this year.

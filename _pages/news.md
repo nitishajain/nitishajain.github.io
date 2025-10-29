@@ -11,6 +11,9 @@ author_profile: true
 * (Sept 2025) Attended the [4th Annual Symposium](https://github.com/turing-knowledge-graphs/meet-ups/blob/main/symposium-2025.md) of the Turing Interest Group on Knowledge Graphs, featuring insightful talks on neuro-symbolic agents, multimodal knowledge graphs and the UK’s Grand Challenges in defence, sustainability and health.
 {: .text-justify}
 
+* (Aug 2025) Participated in the [**Neuro-Symbolic AI Summer School 2025**](https://luma.com/pqzv80yd?tk=UBO1Lp) organized by Centaur AI, an intensive online program held on August 14–15 that brought together leading researchers to advance understanding of neuro-symbolic methods for reasoning, planning, and mathematical AI - gaining valuable insights into emerging approaches for hybrid intelligence ([certificate](/assets/papers/certificate_NeSy summer_school_Centaur.pdf)).
+{: .text-justify}
+
 * (Jun 2025) Honoured to participate in the **Responsible AI UK** [workshop](https://rai.ac.uk/events/ai-regulation-assurance-for-safety-critical-systems/) on AI Regulation Assurance for Safety-Critical Systems - a prestigious forum uniting experts across disciplines to shape real-world applications of responsible and trustworthy AI. More details and my reflections in this LinkedIn [post](https://www.linkedin.com/posts/nitisha-jain_maritimeai-responsibleai-aiethics-activity-7340493399294140416-c_iZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAK-3BsBRnBrwcoZKbBcxM5mF7Dn0FxDo0o).
 {: .text-justify}
 

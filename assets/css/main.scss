@@ -22,15 +22,6 @@ $max-width: calc(100vw - 200px);
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-// Override default content width
-.wrapper,
-.page__inner-wrap,
-.page__content {
-  max-width: 1200px !important;  // increase overall width
-  width: 90%;
-  margin: 0 auto;
-}
-
 
 html {
   font-size: 12px; // change to whatever
@@ -46,4 +37,13 @@ html {
   @include breakpoint($x-large) {
     font-size: 15px; // change to whatever, default 22
   }
+}
+
+// Force wider homepage layout
+.layout--home .page__content,
+.layout--home .page__inner-wrap,
+.layout--home .wrapper {
+  max-width: 1200px !important;   // try 1300px if you want more width
+  width: 90% !important;
+  margin: 0 auto !important;
 }

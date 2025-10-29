@@ -37,7 +37,7 @@ My research is focused on Responsible AI and Explainable AI with neuro-symbolic 
 
 ## [Recent News](/news/) {#news}
 
-* (Oct 2025) Delighted to share that our [perspective paper](https://www.nature.com/articles/s42256-025-01116-5) titled *Towards Deployment-Centric Multimodal AI Beyond Vision and Language* has finally been published in **Nature Machine Intelligence**, presenting a roadmap for real-world multimodal AI across domains like healthcare, sustainability, and engineering. Pleased to be part of this important collaboration led by the University of Sheffield and The Alan Turing Institute with collaborators from 22 institutions.
+* (Oct 2025) Delighted to share that our [perspective paper](https://www.nature.com/articles/s42256-025-01116-5) *Towards Deployment-Centric Multimodal AI Beyond Vision and Language* has finally been published in **Nature Machine Intelligence**. This paper presents a roadmap for real-world multimodal AI across domains like healthcare, sustainability, and engineering - pleased to be part of this important collaboration led by the University of Sheffield and The Alan Turing Institute with collaborators from 22 institutions.
 {: .text-justify}
 
 * (Sept 2025) Attended the [4th Annual Symposium](https://github.com/turing-knowledge-graphs/meet-ups/blob/main/symposium-2025.md) of the *Turing Interest Group on Knowledge Graphs*, featuring insightful talks on neuro-symbolic agents, multimodal knowledge graphs and the UK’s Grand Challenges in defence, sustainability and health.

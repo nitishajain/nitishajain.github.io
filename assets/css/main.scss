@@ -39,11 +39,15 @@ html {
   }
 }
 
-// Force wider homepage layout
-.layout--home .page__content,
+// Expand home page width
+.layout--home .initial-content,
 .layout--home .page__inner-wrap,
+.layout--home .page__content,
 .layout--home .wrapper {
-  max-width: 1200px !important;   // try 1300px if you want more width
-  width: 90% !important;
-  margin: 0 auto !important;
+  max-width: 1300px !important;
+  width: 90vw !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  padding-left: 2rem !important;
+  padding-right: 2rem !important;
 }

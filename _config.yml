@@ -57,9 +57,15 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/nitishajain"
+    - label: "Google Scholar"
+      icon: "ai ai-google-scholar"
+      url: "https://scholar.google.com/citations?user=cnf0TGkAAAAJ&hl=en"
+    - label: "DBLP"
+      icon: "ai ai-dblp"
+      url: "https://dblp.org/pid/155/7193.html"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:nitisha.jain@kcl.ac.uk"
+      url: "mailto:nitishajain15@gmail.com"
   
 
 footer:

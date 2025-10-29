@@ -22,6 +22,15 @@ $max-width: calc(100vw - 200px);
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+// Override default content width
+.wrapper,
+.page__inner-wrap,
+.page__content {
+  max-width: 1200px !important;  // increase overall width
+  width: 90%;
+  margin: 0 auto;
+}
+
 
 html {
   font-size: 12px; // change to whatever

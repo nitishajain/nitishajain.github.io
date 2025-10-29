@@ -27,13 +27,24 @@ My research is focused on Responsible AI and Explainable AI with neuro-symbolic 
 
 ## [Recent News](/news/) {#news}
 
+* (Sept 2025) Attended the [4th Annual Symposium of the Turing Interest Group on Knowledge Graphs](https://github.com/turing-knowledge-graphs/meet-ups/blob/main/symposium-2025.md), featuring insightful talks on neuro-symbolic agents, multimodal knowledge graphs and the UK’s Grand Challenges in defence, sustainability and health.
+{: .text-justify}
 
-* (May 2025) Our [paper](https://kclpure.kcl.ac.uk/admin/files/337589716/LAW_ACL2025_Semantic_Drift.pdf) on *An Annotation Protocol for Diachronic Evaluation of Semantic Drift in Disability Sources* has been accepted at the Linguistic Annotation Workshop (LAW) 2025, which will be co-located with ACL 2025 in Vienna this year.
+* (Jun 2025) Honoured to participate in the **Responsible AI UK** workshop on [AI Regulation Assurance for Safety-Critical Systems](https://rai.ac.uk/events/ai-regulation-assurance-for-safety-critical-systems/) - a prestigious forum uniting experts across disciplines to shape real-world applications of responsible and trustworthy AI. Read my reflections in this [LinkedIn post](https://www.linkedin.com/posts/nitisha-jain_maritimeai-responsibleai-aiethics-activity-7340493399294140416-c_iZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAK-3BsBRnBrwcoZKbBcxM5mF7Dn0FxDo0o).
+{: .text-justify}
+
+
+* (May 2025) Our [paper]([https://kclpure.kcl.ac.uk/admin/files/337589716/LAW_ACL2025_Semantic_Drift.pdf](https://aclanthology.org/anthology-files/pdf/law/2025.law-1.13.pdf)) on *An Annotation Protocol for Diachronic Evaluation of Semantic Drift in Disability Sources* has been accepted at the Linguistic Annotation Workshop (LAW) 2025, which will be co-located with ACL 2025 in Vienna this year.
 {: .text-justify}
 
 * (Mar 2025) Our research manuscript proposing a neurosymbolic approach for generating interpretable embeddings has been accepted for publication in the Neurosymbolic AI Journal! (preprint [here](https://neurosymbolic-ai-journal.com/paper/towards-interpretable-embeddings-aligning-representations-semantic-aspects-0)).  
 {: .text-justify}
 
+* (Mar 2025) Thrilled to have attended [**AI UK 2025**](https://ai-uk.turing.ac.uk/), the flagship annual event of the Alan Turing Institute, bringing together leading researchers, innovators, and policymakers shaping the future of AI in the UK - shared my highlights and reflections in this [LinkedIn post](https://www.linkedin.com/posts/nitisha-jain_aiuk-alanturinginstitute-prolific-activity-7309194371994701824-bZQU?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAK-3BsBRnBrwcoZKbBcxM5mF7Dn0FxDo0o).
+{: .text-justify}
+
+* (Feb 2025) Excited to attend the event [AI Fringe 2025](https://aifringe.org/), organized alongside the **AI Safety Summit in Paris**, bringing together researchers, policymakers, and practitioners to explore the societal, ethical, and creative dimensions of AI.
+{: .text-justify}
 
 * (Dec 2024) Excited to share our [paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/9547b09b722f2948ff3ddb5d86002bc0-Paper-Datasets_and_Benchmarks_Track.pdf) on the Croissant metadata standard will be presented as a **spotlight paper** at NeurIPS 2024 (top ~3% of submissions).
 {: .text-justify}
@@ -58,13 +69,10 @@ My research is focused on Responsible AI and Explainable AI with neuro-symbolic 
 * **Nitisha Jain**, Antoine Domingues, Adwait Baokar, Albert Meroño Peñuela, Elena Simperl : *Towards Interpretable Embeddings: Aligning Representations with Semantic Aspects*. Neurosymbolic AI Journal 2025. [[Paper](https://journals.sagepub.com/doi/10.1177/29498732251377351)]
 {: .text-justify}
 
-* **Nitisha Jain**, Chiara Di Bonaventura, Albert Meroño-Peñuela, Barbara McGillivray : *An Annotation Protocol for Diachronic Evaluation of Semantic Drift in Disability Sources*. Linguistic Annotation Workshop (LAW) 2025, Association for Computational Linguistics (ACL). [[Paper](/assets/papers/LAW_ACL2025_Semantic_Drift.pdf)] 
+* **Nitisha Jain**, Chiara Di Bonaventura, Albert Meroño-Peñuela, Barbara McGillivray : *An Annotation Protocol for Diachronic Evaluation of Semantic Drift in Disability Sources*. Linguistic Annotation Workshop (LAW) 2025, Association for Computational Linguistics (ACL). [[Paper](https://aclanthology.org/anthology-files/pdf/law/2025.law-1.13.pdf)] 
 {: .text-justify}
 
 * Mubashara Akhtar, Omar Benjelloun, Costanza Conforti, Luca Foschini, Joan Giner-Miguelez, Pieter Gijsbers, Sujata Goswami, **Nitisha Jain** et al. : *Croissant: A Metadata Format for ML-Ready Datasets*. Neural Information Processing Systems (NeurIPS) 2024. [[Paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/9547b09b722f2948ff3ddb5d86002bc0-Paper-Datasets_and_Benchmarks_Track.pdf)] (**Spotlight paper**)
-{: .text-justify}
-
-* *Towards deployment-centric multimodal AI beyond vision and language*. arXiv preprint 2025 [arXiv:2504.03603](https://arxiv.org/pdf/2504.03603?)
 {: .text-justify}
 
 * Elisavet Koutsiana, Ioannis Reklos, Kholoud Saad Alghamdi, **Nitisha Jain**, Albert Meroño-Peñuela, Elena Simperl : *Talking Wikidata: Communication Patterns and Their Impact on Community Engagement in Collaborative Knowledge Graphs*. Transactions on Graph Data & Knowledge, 2025. [[Paper](https://drops.dagstuhl.de/entities/document/10.4230/TGDK.3.1.2)] 
@@ -79,7 +87,7 @@ My research is focused on Responsible AI and Explainable AI with neuro-symbolic 
 * Mubashara Akhtar, Omar Benjelloun, Costanza Conforti, Pieter Gijsbers, Joan Giner-Miguelez, **Nitisha Jain** et al.: *Croissant: A Metadata Format for ML-Ready Datasets*. Proceedings of the Eighth Workshop on Data Management for End-to-End Machine Learning (DEEM), 2024. [[Paper](https://dl.acm.org/doi/abs/10.1145/3650203.3663326)] 
 {: .text-justify}
 
-* Antoine Domingues, **Nitisha Jain**, Albert Meroño Peñuela, Elena Simperl: *Bringing Back Semantics to Knowledge Graph Embeddings : An Interpretability Approach*. Proceedings of the 18th International Conference on Neural-Symbolic Learning and Reasoning (NeSy), 2024. [[Paper](https://kclpure.kcl.ac.uk/ws/portalfiles/portal/273022079/NeSy_final.pdf)] 
+* Antoine Domingues, **Nitisha Jain**, Albert Meroño Peñuela, Elena Simperl: *Bringing Back Semantics to Knowledge Graph Embeddings : An Interpretability Approach*. Proceedings of the 18th International Conference on Neural-Symbolic Learning and Reasoning (NeSy), 2024. [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-71170-1_17)] 
 {: .text-justify}
 
 * Jacopo de Berardinis, Valentina Anita Carriero, **Nitisha Jain** et al.: *The Polifonia Ontology Network: Building a Semantic Backbone for Musical Heritage*. Proceedings of the 22nd International Semantic Web Conference (ISWC), 2023. [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-47243-5_17)] 

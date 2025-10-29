@@ -13,12 +13,9 @@ author_profile: true
 * **Nitisha Jain**, Antoine Domingues, Adwait Baokar, Albert Meroño Peñuela, Elena Simperl : *Towards Interpretable Embeddings: Aligning Representations with Semantic Aspects*. Neurosymbolic AI Journal 2025. [[Paper](https://journals.sagepub.com/doi/10.1177/29498732251377351)]
 {: .text-justify}
 
-* **Nitisha Jain**, Chiara Di Bonaventura, Albert Meroño-Peñuela, Barbara McGillivray : *An Annotation Protocol for Diachronic Evaluation of Semantic Drift in Disability Sources*. Linguistic Annotation Workshop (LAW) 2025, Association for Computational Linguistics (ACL). [[Paper](https://kclpure.kcl.ac.uk/admin/files/337589716/LAW_ACL2025_Semantic_Drift.pdf)] 
+* **Nitisha Jain**, Chiara Di Bonaventura, Albert Meroño-Peñuela, Barbara McGillivray : *An Annotation Protocol for Diachronic Evaluation of Semantic Drift in Disability Sources*. Linguistic Annotation Workshop (LAW) 2025, Association for Computational Linguistics (ACL). [[Paper]([https://kclpure.kcl.ac.uk/admin/files/337589716/LAW_ACL2025_Semantic_Drift.pdf](https://aclanthology.org/anthology-files/pdf/law/2025.law-1.13.pdf))] 
 
 * Mubashara Akhtar, Omar Benjelloun, Costanza Conforti, Luca Foschini, Joan Giner-Miguelez, Pieter Gijsbers, Sujata Goswami, **Nitisha Jain** et al. : *Croissant: A Metadata Format for ML-Ready Datasets*. Neural Information Processing Systems (NeurIPS) 2024. [[Paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/9547b09b722f2948ff3ddb5d86002bc0-Paper-Datasets_and_Benchmarks_Track.pdf)] (**Spotlight paper**)
-{: .text-justify}
-
-* *Towards deployment-centric multimodal AI beyond vision and language*. arXiv preprint 2025 [arXiv:2504.03603](https://arxiv.org/pdf/2504.03603?)
 {: .text-justify}
 
 * Elisavet Koutsiana, Ioannis Reklos, Kholoud Saad Alghamdi, **Nitisha Jain**, Albert Meroño-Peñuela, Elena Simperl : *Talking Wikidata: Communication Patterns and Their Impact on Community Engagement in Collaborative Knowledge Graphs*. Transactions on Graph Data & Knowledge, 2025. [[Paper](https://drops.dagstuhl.de/entities/document/10.4230/TGDK.3.1.2)] 
@@ -30,11 +27,10 @@ author_profile: true
 * **Nitisha Jain**, Mubashara Akhtar, Joan Giner-Miguelez, Rajat Shinde, Omar Benjelloun, Elena Simperl et al. : *A Standardized Machine-readable Dataset Documentation Format for Responsible AI*. arXiv preprint 2024 [arXiv:2407.16883](https://arxiv.org/pdf/2407.16883)
 {: .text-justify}
 
-
 * Mubashara Akhtar, Omar Benjelloun, Costanza Conforti, Pieter Gijsbers, Joan Giner-Miguelez, **Nitisha Jain** et al.: *Croissant: A Metadata Format for ML-Ready Datasets*. Data Management for End-to-End Machine Learning (DEEM), 2024. [[Paper](https://dl.acm.org/doi/abs/10.1145/3650203.3663326)] (**Best Paper Award**)
 {: .text-justify}
 
-* Antoine Domingues, **Nitisha Jain**, Albert Meroño Peñuela, Elena Simperl: *Bringing Back Semantics to Knowledge Graph Embeddings : An Interpretability Approach*. Neural-Symbolic Learning and Reasoning (NeSy), 2024. [[Paper](https://kclpure.kcl.ac.uk/ws/portalfiles/portal/273022079/NeSy_final.pdf)] 
+* Antoine Domingues, **Nitisha Jain**, Albert Meroño Peñuela, Elena Simperl: *Bringing Back Semantics to Knowledge Graph Embeddings : An Interpretability Approach*. Neural-Symbolic Learning and Reasoning (NeSy), 2024. [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-71170-1_17)] 
 {: .text-justify}
 
 * Jacopo de Berardinis, Valentina Anita Carriero, **Nitisha Jain** et al.: *The Polifonia Ontology Network: Building a Semantic Backbone for Musical Heritage*. International Semantic Web Conference (ISWC), 2023. [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-47243-5_17)] 

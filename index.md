@@ -19,11 +19,11 @@ permalink: /
 {: .text-justify}
 
 
-I am a [Postdoctoral Researcher](https://www.kcl.ac.uk/people/nitisha-jain) at King’s College London working with [Dr Albert Meroño Peñuela](https://www.kcl.ac.uk/people/albert-merono-penuela-1) and [Professor Elena Simperl](https://www.kcl.ac.uk/people/elena-simperl) in the Department of Informatics. With a PhD in Knowledge Graphs from the Hasso Plattner Institute, my research lies at the intersection of **generative AI, neuro-symbolic reasoning, and AI safety**.
+I am a [Postdoctoral Researcher](https://www.kcl.ac.uk/people/nitisha-jain) at King’s College London working with [Dr Albert Meroño Peñuela](https://www.kcl.ac.uk/people/albert-merono-penuela-1) and [Professor Elena Simperl](https://www.kcl.ac.uk/people/elena-simperl) in the Department of Informatics. With a PhD in Knowledge Graphs from the Hasso Plattner Institute, my research lies at the intersection of *generative AI, neuro-symbolic reasoning, and AI safety*. {: .text-justify}
 
-At KCL, I lead work on **multimodal representations grounded in structured knowledge** within the EU Horizon [**MuseIT**](https://www.muse-it.eu/) project - developing, fine-tuning and evaluating generative pipelines that span text, image, speech, 3D, and music modalities for cultural heritage applications.
+At KCL, I lead work on *multimodal representations grounded in structured knowledge* within the EU Horizon [**MuseIT**](https://www.muse-it.eu/) project - developing, fine-tuning and evaluating generative pipelines that span text, image, speech, 3D, and music modalities for cultural heritage applications. {: .text-justify}
 
-I also actively contribute to the [**MLCommons Croissant**](https://github.com/mlcommons/croissant) project - co-chairing efforts on **Responsible AI metadata and governance** for trustworthy dataset documentation. My broader interests span explainable and interpretable AI, dataset and model evaluation, and methods that bridge statistical and symbolic reasoning for safer AI systems.
+I also actively contribute to the [**MLCommons Croissant**](https://github.com/mlcommons/croissant) project - co-chairing efforts on *Responsible AI metadata and governance* for trustworthy dataset documentation. My broader interests include evaluation and alignment of generative and agentic AI systems, interpretability, and building structured frameworks for transparent, human-centered AI. {: .text-justify}
 
 
 <!--- 

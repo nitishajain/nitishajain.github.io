@@ -123,7 +123,7 @@ My research is focused on Responsible AI and Explainable AI with neuro-symbolic 
   
 * Organization of the Workshop on Generative Neuro-Symbolic AI ([GeNeSy](https://sites.google.com/view/genesy2024/)), co-located with ESWC 2024.
 
-* Sponsorship Chair of the ESWC 2024 conference along with Jan-Christoph Kalo. 
+* Sponsorship Chair of the [ESWC 2024](https://2024.eswc-conferences.org/organising-committee/) conference along with Jan-Christoph Kalo. 
 
 * Paper reviewing 
 	* 2025 : Semantic Web Journal, ISWC, Semantics, SemDH (ESWC)

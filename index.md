@@ -117,6 +117,10 @@ My research is focused on Responsible AI and Explainable AI with neuro-symbolic 
 
 ### Service
 
+* PC member for the [Semantics 2025](https://2025-eu.semantics.cc/) conference held in Vienna.
+
+* PC member for [ANSyA 2025](https://ansya-workshop.github.io/2025/): 1st International Workshop on Advanced Neuro-Symbolic Applications, co-located with ECAI 2025 conference.
+  
 * Organization of the Workshop on Generative Neuro-Symbolic AI ([GeNeSy](https://sites.google.com/view/genesy2024/)), co-located with ESWC 2024.
 
 * Sponsorship Chair of the ESWC 2024 conference along with Jan-Christoph Kalo. 

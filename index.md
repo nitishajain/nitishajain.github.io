@@ -16,6 +16,13 @@ permalink: /
 
 ## [About Me](/about/) 
 
+I am a [Senior Research Engineer](https://www.microsoft.com/en-us/research/people/nitishajain/) at Microsoft research Cambridge in the [AI for Science](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai-for-science/) team supporting the development and engineering of AI-driven scientific research workflows and applications in the context of small molecule discovery.
+
+Previously, I was a [Postdoctoral Research Associate](https://www.kcl.ac.uk/people/nitisha-jain) at King’s College London working with [Dr Albert Meroño Peñuela](https://www.kcl.ac.uk/people/albert-merono-penuela-1) and [Professor Elena Simperl](https://www.kcl.ac.uk/people/elena-simperl) in the Department of Informatics.
+
+
+<!--- 
+
 {: .text-justify}
 I am a [Postdoctoral Researcher](https://www.kcl.ac.uk/people/nitisha-jain) at King’s College London working with [Dr Albert Meroño Peñuela](https://www.kcl.ac.uk/people/albert-merono-penuela-1) and [Professor Elena Simperl](https://www.kcl.ac.uk/people/elena-simperl) in the Department of Informatics. With a PhD in Knowledge Graphs from the Hasso Plattner Institute, my research lies at the intersection of *generative AI, neuro-symbolic reasoning, and AI safety*.
 
@@ -36,6 +43,9 @@ My research is focused on Responsible AI and Explainable AI with neuro-symbolic 
 
 
 ## [Recent News](/news/) {#news}
+
+* (Mar 2026) Our [benchmark paper](https://link.springer.com/chapter/10.1007/978-3-032-25159-6_6) titled *CUBE-MT: A Cultural Benchmark for Multimodal Knowledge Graph Construction with Generative Models* has been accepted for the ESWC 2026 conference.
+{: .text-justify}
 
 * (Oct 2025) Delighted to share that our [perspective paper](https://www.nature.com/articles/s42256-025-01116-5) *Towards Deployment-Centric Multimodal AI Beyond Vision and Language* has finally been published in **Nature Machine Intelligence**. This paper presents a roadmap for real-world multimodal AI across domains like healthcare, sustainability, and engineering - pleased to be part of this important collaboration led by the University of Sheffield and The Alan Turing Institute with collaborators from 22 institutions.
 {: .text-justify}

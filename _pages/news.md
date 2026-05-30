@@ -7,6 +7,10 @@ permalink: /news/
 author_profile: true
 ---
 
+
+* (Mar 2026) Our [paper](https://link.springer.com/chapter/10.1007/978-3-032-25159-6_6) titled *CUBE-MT: A Cultural Benchmark for Multimodal Knowledge Graph Construction with Generative Models* has been accepted for the [Resource track](https://2026.eswc-conferences.org/program/accepted-papers/main-tracks/) at the ESWC 2026 conference.
+{: .text-justify}
+
 * (Oct 2025) Delighted to share that our [perspective paper](https://www.nature.com/articles/s42256-025-01116-5) *Towards Deployment-Centric Multimodal AI Beyond Vision and Language* has finally been published in **Nature Machine Intelligence**. This paper presents a roadmap for real-world multimodal AI across domains like healthcare, sustainability, and engineering - pleased to be part of this important collaboration led by the University of Sheffield and The Alan Turing Institute with collaborators from 22 institutions.
 {: .text-justify}
 

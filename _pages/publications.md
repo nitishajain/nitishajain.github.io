@@ -7,6 +7,11 @@ permalink: /publications/
 author_profile: true
 ---
 
+
+
+* Albert Meroño-Peñuela, Xin Fan Guo, **Nitisha Jain**, et al. : *CUBE-MT: A Cultural Benchmark for Multimodal Knowledge Graph Construction with Generative Models*. European Semantic Web Conference 2026. [[Paper](https://link.springer.com/chapter/10.1007/978-3-032-25159-6_6)]
+{: .text-justify}
+
 * Liu, X., Zhang, J., Zhou, S. et al. : *Towards deployment-centric multimodal AI beyond vision and language*. Nature Machine Intelligence 2025. [[Paper](https://www.nature.com/articles/s42256-025-01116-5)] [[PDF](https://arxiv.org/abs/2504.03603)]
 {: .text-justify}
 
